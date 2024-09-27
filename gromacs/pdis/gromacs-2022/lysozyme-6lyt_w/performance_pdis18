@@ -1,0 +1,4 @@
+ncpu   ns/day  (/home/yamamori/opt/gmx2022/bin/gmx_mpi) 
+   16  149.785
+   32  150.973
+   64  162.645

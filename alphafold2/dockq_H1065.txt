@@ -1,0 +1,6 @@
+AF2-linker H1065 0.771 3
+AF2-Multimer(2.1.1) H1065     0.878 5
+AF2-Multimer(2.2.0) H1065     0.889 6
+FoldDock H1065     0.017 4
+Zdock+AF2 H1065     0.629 1
+OmegaFold-linker H1065 0.841 2

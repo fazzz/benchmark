@@ -1,0 +1,6 @@
+AF2-linker T1032 0.516
+AF2-linker T1038 0.463 
+AF2-linker T1054 0.026 
+AF2-linker T1078 0.857 
+AF2-linker H1045 0.902 
+AF2-linker H1065 0.771 

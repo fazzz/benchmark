@@ -1,0 +1,6 @@
+AF2-Multimer(2.3.0) H1045     0.917
+AF2-Multimer(2.3.0) H1065     0.929
+AF2-Multimer(2.3.0) T1032x2   0.461
+AF2-Multimer(2.3.0) T1038x2   0.943
+AF2-Multimer(2.3.0) T1054x2   0.273
+AF2-Multimer(2.3.0) T1078x2   0.929

@@ -1,0 +1,5 @@
+OmegaFold-linker T1038 0.015 
+OmegaFold-linker T1054 0.015 
+OmegaFold-linker T1078 0.097 
+OmegaFold-linker H1045 0.628
+OmegaFold-linker H1065 0.841 

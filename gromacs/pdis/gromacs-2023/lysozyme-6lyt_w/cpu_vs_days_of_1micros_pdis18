@@ -1,0 +1,4 @@
+mcpu day/1micros (/work20/yamamori/opt/gmx2023/bin/gmx_mpi)
+16 6.55123
+32 5.50106
+64 5.17162

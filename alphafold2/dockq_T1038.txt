@@ -1,0 +1,6 @@
+AF2-linker T1038 0.463 3
+AF2-Multimer(2.1.1) T1038x2   0.928 5
+AF2-Multimer(2.2.0) T1038x2   0.954 6
+FoldDock T1038x2   0.487 4
+Zdock+AF2 T1038x2   0.369 1
+OmegaFold-linker T1038 0.015 2

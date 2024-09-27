@@ -1,0 +1,6 @@
+Zdock+AF2 H1045     0.783
+Zdock+AF2 H1065     0.629
+Zdock+AF2 T1032x2   0.330
+Zdock+AF2 T1038x2   0.369
+Zdock+AF2 T1054x2   0.130
+Zdock+AF2 T1078x2   0.359

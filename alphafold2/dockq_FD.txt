@@ -1,0 +1,6 @@
+FoldDock H1045     0.008
+FoldDock H1065     0.017
+FoldDock T1032x2   0.501
+FoldDock T1038x2   0.487
+FoldDock T1054x2   0.027
+FoldDock T1078x2   0.772

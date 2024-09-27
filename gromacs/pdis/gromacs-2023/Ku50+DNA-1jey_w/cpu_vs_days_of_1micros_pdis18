@@ -1,0 +1,4 @@
+mcpu day/1micros (/work20/yamamori/opt/gmx2023/bin/gmx_mpi)
+16 42.8761
+32 39.7425
+64 37.9867

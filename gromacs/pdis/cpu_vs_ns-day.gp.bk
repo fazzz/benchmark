@@ -1,0 +1,111 @@
+#!/usr/local/bin/gnuplot
+
+set terminal postscript eps enhanced background rgb 'white' color size 24cm , 12cm  "Times" 20
+set output "cpu_vs_ns-day.eps"
+
+set encoding iso_8859_1
+
+set tics out
+set multiplot layout 2,3
+
+set tics out
+set tics font "Times-Roman,12"
+set xlabel font "Times-Roman,20"
+set ylabel font "Times-Roman,20"
+set label font "Times-Roman,12"
+set key font "Times-Roman,12"
+
+set style fill solid border lc rgb "black"
+
+se xr [0:90]
+
+set xlabel "Num. of CPU"
+
+set ylabel "ns / day"
+
+set label 1 at graph 0.1,0.9 "(a)" #"14,948 atoms"
+
+plot "gromacs-2022/chignolin_w/performance_pdis17" u 1:2 w p pt 7 ps 1.0 lc rgb "red" notitle, \
+     "gromacs-2022/chignolin_w/performance_pdis17" u 1:2 w l lt 1 lc rgb "red" title "pdis17", \
+     "gromacs-2018/chignolin_w/performance_pdis17" u 1:2 w p pt 7 ps 1.0 lc rgb "red" notitle, \
+     "gromacs-2018/chignolin_w/performance_pdis17" u 1:2 w l lt 0 lc rgb "red" notitle, \
+     "gromacs-2022/chignolin_w/performance_pdis18" u 1:2 w p pt 7 ps 1.0 lc rgb "black" notitle, \
+     "gromacs-2022/chignolin_w/performance_pdis18" u 1:2 w l lt 1 lc rgb "black" title "pdis18", \
+     "gromacs-2018/chignolin_w/performance_pdis18" u 1:2 w p pt 7 ps 1.0 lc rgb "black" notitle, \
+     "gromacs-2018/chignolin_w/performance_pdis18" u 1:2 w l lt 0 lc rgb "black" notitle, \
+     "gromacs-2022/chignolin_w/performance_pdis19" u 1:2 w p pt 7 ps 1.0 lc rgb "blue" notitle, \
+     "gromacs-2022/chignolin_w/performance_pdis19" u 1:2 w l lt 1 lc rgb "blue" title "pdis19", \
+     "gromacs-2018/chignolin_w/performance_pdis19" u 1:2 w p pt 7 ps 1.0 lc rgb "blue" notitle, \
+     "gromacs-2018/chignolin_w/performance_pdis19" u 1:2 w l lt 0 lc rgb "blue" notitle, \
+     "gromacs-2022/chignolin_w/performance_pdis20" u 1:2 w p pt 7 ps 1.0 lc rgb "orange" title "pdis20", \
+     "gromacs-2018/chignolin_w/performance_pdis20" u 1:2 w p pt 6 ps 1.0 lc rgb "orange" notitle
+
+set label 1 at graph 0.1,0.9 "(b)" #"35,984 atoms"
+
+plot "gromacs-2022/lysozyme-6lyt_w/performance_pdis17" u 1:2 w p pt 7 ps 1.0 lc rgb "red" notitle, \
+     "gromacs-2022/lysozyme-6lyt_w/performance_pdis17" u 1:2 w l lt 1 lc rgb "red" title "pdis17", \
+     "gromacs-2018/lysozyme-6lyt_w/performance_pdis17" u 1:2 w p pt 7 ps 1.0 lc rgb "red" notitle, \
+     "gromacs-2018/lysozyme-6lyt_w/performance_pdis17" u 1:2 w l lt 0 lc rgb "red" notitle, \
+     "gromacs-2022/lysozyme-6lyt_w/performance_pdis18" u 1:2 w p pt 7 ps 1.0 lc rgb "black" notitle, \
+     "gromacs-2022/lysozyme-6lyt_w/performance_pdis18" u 1:2 w l lt 1 lc rgb "black" title "pdis18", \
+     "gromacs-2018/lysozyme-6lyt_w/performance_pdis18" u 1:2 w p pt 7 ps 1.0 lc rgb "black" notitle, \
+     "gromacs-2018/lysozyme-6lyt_w/performance_pdis18" u 1:2 w l lt 0 lc rgb "black" notitle, \
+     "gromacs-2022/lysozyme-6lyt_w/performance_pdis19" u 1:2 w p pt 7 ps 1.0 lc rgb "blue" notitle, \
+     "gromacs-2022/lysozyme-6lyt_w/performance_pdis19" u 1:2 w l lt 1 lc rgb "blue" title "pdis19", \
+     "gromacs-2018/lysozyme-6lyt_w/performance_pdis19" u 1:2 w p pt 7 ps 1.0 lc rgb "blue" notitle, \
+     "gromacs-2018/lysozyme-6lyt_w/performance_pdis19" u 1:2 w l lt 0 lc rgb "blue" notitle, \
+     "gromacs-2022/lysozyme-6lyt_w/performance_pdis20" u 1:2 w p pt 7 ps 1.0 lc rgb "orange" title "pdis20", \
+     "gromacs-2018/lysozyme-6lyt_w/performance_pdis20" u 1:2 w p pt 6 ps 1.0 lc rgb "orange" notitle
+
+set label 1 at graph 0.1,0.9 "(c)" #"149,052 atoms"
+
+plot "gromacs-2022/SAM50TOM40_wm_HMR/performance_pdis17" u 1:2 w p pt 7 ps 1.0 lc rgb "red" notitle, \
+     "gromacs-2022/SAM50TOM40_wm_HMR/performance_pdis17" u 1:2 w l lt 1 lc rgb "red" title "pdis17", \
+     "gromacs-2018/SAM50TOM40_wm_HMR/performance_pdis17" u 1:2 w p pt 7 ps 1.0 lc rgb "red" notitle, \
+     "gromacs-2018/SAM50TOM40_wm_HMR/performance_pdis17" u 1:2 w l lt 0 lc rgb "red" notitle, \
+     "gromacs-2022/SAM50TOM40_wm_HMR/performance_pdis18" u 1:2 w p pt 7 ps 1.0 lc rgb "black" notitle, \
+     "gromacs-2022/SAM50TOM40_wm_HMR/performance_pdis18" u 1:2 w l lt 1 lc rgb "black" title "pdis18", \
+     "gromacs-2018/SAM50TOM40_wm_HMR/performance_pdis18" u 1:2 w p pt 7 ps 1.0 lc rgb "black" notitle, \
+     "gromacs-2018/SAM50TOM40_wm_HMR/performance_pdis18" u 1:2 w l lt 0 lc rgb "black" notitle, \
+     "gromacs-2022/SAM50TOM40_wm_HMR/performance_pdis19" u 1:2 w p pt 7 ps 1.0 lc rgb "blue" notitle, \
+     "gromacs-2022/SAM50TOM40_wm_HMR/performance_pdis19" u 1:2 w l lt 1 lc rgb "blue" title "pdis19", \
+     "gromacs-2018/SAM50TOM40_wm_HMR/performance_pdis19" u 1:2 w p pt 7 ps 1.0 lc rgb "blue" notitle, \
+     "gromacs-2018/SAM50TOM40_wm_HMR/performance_pdis19" u 1:2 w l lt 0 lc rgb "blue" notitle, \
+     "gromacs-2022/SAM50TOM40_wm_HMR/performance_pdis20" u 1:2 w p pt 7 ps 1.0 lc rgb "orange" title "pdis20", \
+     "gromacs-2018/SAM50TOM40_wm_HMR/performance_pdis20" u 1:2 w p pt 6 ps 1.0 lc rgb "orange" notitle
+
+set label 1 at graph 0.1,0.9 "(d)" #"154,885 atoms"
+
+plot "gromacs-2022/SAM50TOM40_wm/performance_pdis17" u 1:2 w p pt 7 ps 1.0 lc rgb "red" notitle, \
+     "gromacs-2022/SAM50TOM40_wm/performance_pdis17" u 1:2 w l lt 1 lc rgb "red" title "pdis17", \
+     "gromacs-2018/SAM50TOM40_wm/performance_pdis17" u 1:2 w p pt 7 ps 1.0 lc rgb "red" notitle, \
+     "gromacs-2018/SAM50TOM40_wm/performance_pdis17" u 1:2 w l lt 0 lc rgb "red" notitle, \
+     "gromacs-2022/SAM50TOM40_wm/performance_pdis18" u 1:2 w p pt 7 ps 1.0 lc rgb "black" notitle, \
+     "gromacs-2022/SAM50TOM40_wm/performance_pdis18" u 1:2 w l lt 1 lc rgb "black" title "pdis18", \
+     "gromacs-2018/SAM50TOM40_wm/performance_pdis18" u 1:2 w p pt 7 ps 1.0 lc rgb "black" notitle, \
+     "gromacs-2018/SAM50TOM40_wm/performance_pdis18" u 1:2 w l lt 0 lc rgb "black" notitle, \
+     "gromacs-2022/SAM50TOM40_wm/performance_pdis19" u 1:2 w p pt 7 ps 1.0 lc rgb "blue" notitle, \
+     "gromacs-2022/SAM50TOM40_wm/performance_pdis19" u 1:2 w l lt 1 lc rgb "blue" title "pdis19", \
+     "gromacs-2018/SAM50TOM40_wm/performance_pdis19" u 1:2 w p pt 7 ps 1.0 lc rgb "blue" notitle, \
+     "gromacs-2018/SAM50TOM40_wm/performance_pdis19" u 1:2 w l lt 0 lc rgb "blue" notitle, \
+     "gromacs-2022/SAM50TOM40_wm/performance_pdis20" u 1:2 w p pt 7 ps 1.0 lc rgb "orange" title "pdis20", \
+     "gromacs-2018/SAM50TOM40_wm/performance_pdis20" u 1:2 w p pt 6 ps 1.0 lc rgb "orange" notitle
+
+set label 1 at graph 0.1,0.9 "(e)" #"274,917 atoms"
+
+plot "gromacs-2022/Ku50+DNA-1jey_w/performance_pdis17" u 1:2 w p pt 7 ps 1.0 lc rgb "red" notitle, \
+     "gromacs-2022/Ku50+DNA-1jey_w/performance_pdis17" u 1:2 w l lt 1 lc rgb "red" title "pdis17", \
+     "gromacs-2018/Ku50+DNA-1jey_w/performance_pdis17" u 1:2 w p pt 7 ps 1.0 lc rgb "red" notitle, \
+     "gromacs-2018/Ku50+DNA-1jey_w/performance_pdis17" u 1:2 w l lt 0 lc rgb "red" notitle, \
+     "gromacs-2022/Ku50+DNA-1jey_w/performance_pdis18" u 1:2 w p pt 7 ps 1.0 lc rgb "black" notitle, \
+     "gromacs-2022/Ku50+DNA-1jey_w/performance_pdis18" u 1:2 w l lt 1 lc rgb "black" title "pdis18", \
+     "gromacs-2018/Ku50+DNA-1jey_w/performance_pdis18" u 1:2 w p pt 7 ps 1.0 lc rgb "black" notitle, \
+     "gromacs-2018/Ku50+DNA-1jey_w/performance_pdis18" u 1:2 w l lt 0 lc rgb "black" notitle, \
+     "gromacs-2022/Ku50+DNA-1jey_w/performance_pdis19" u 1:2 w p pt 7 ps 1.0 lc rgb "blue" notitle, \
+     "gromacs-2022/Ku50+DNA-1jey_w/performance_pdis19" u 1:2 w l lt 1 lc rgb "blue" title "pdis19", \
+     "gromacs-2018/Ku50+DNA-1jey_w/performance_pdis19" u 1:2 w p pt 7 ps 1.0 lc rgb "blue" notitle, \
+     "gromacs-2018/Ku50+DNA-1jey_w/performance_pdis19" u 1:2 w l lt 0 lc rgb "blue" notitle, \
+     "gromacs-2022/Ku50+DNA-1jey_w/performance_pdis20" u 1:2 w p pt 7 ps 1.0 lc rgb "orange" title "pdis20", \
+     "gromacs-2018/Ku50+DNA-1jey_w/performance_pdis20" u 1:2 w p pt 6 ps 1.0 lc rgb "orange" notitle
+
+quit

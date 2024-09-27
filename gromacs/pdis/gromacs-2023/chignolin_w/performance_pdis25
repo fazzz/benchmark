@@ -1,0 +1,5 @@
+ncpu   ns/day  (/work20/yamamori/opt/gmx2023/bin/gmx_mpi) 
+   16  249.892
+   32  250.626
+   48  334.189
+   56  353.966

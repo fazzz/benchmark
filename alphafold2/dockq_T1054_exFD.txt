@@ -1,0 +1,6 @@
+AF2-linker T1054 0.026 3
+AF2-Multimer(2.1.1) T1054x2   0.015 4
+AF2-Multimer(2.2.0) T1054x2   0.033 5
+AF2-Multimer(2.3.0) T1054x2   0.273 6
+Zdock+AF2 T1054x2   0.130 1
+OmegaFold-linker T1054 0.015  2

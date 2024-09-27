@@ -1,0 +1,11 @@
+module,nodes,performance,time,use_gpu,host,ncores,number_of_ranks,number_of_threads,hyperthreading,multidir
+gromacs/2018.8,1,44.961,15,False,abci_intel-mpi,40,40,1,False,1
+gromacs/2018.8,2,77.464,15,False,abci_intel-mpi,80,40,1,False,1
+gromacs/2018.8,3,99.251,15,False,abci_intel-mpi,120,40,1,False,1
+gromacs/2018.8,4,78.346,15,False,abci_intel-mpi,160,40,1,False,1
+gromacs/2018.8,5,122.1,15,False,abci_intel-mpi,200,40,1,False,1
+gromacs/2018.8,6,134.94,15,False,abci_intel-mpi,240,40,1,False,1
+gromacs/2018.8,7,171.747,15,False,abci_intel-mpi,280,40,1,False,1
+gromacs/2018.8,8,178.638,15,False,abci_intel-mpi,320,40,1,False,1
+gromacs/2018.8,9,160.663,15,False,abci_intel-mpi,360,40,1,False,1
+gromacs/2018.8,10,190.546,15,False,abci_intel-mpi,400,40,1,False,1

@@ -1,0 +1,5 @@
+AF2-linker T1032 0.516	3
+AF2-Multimer(2.1.1) T1032x2   0.471 4
+AF2-Multimer(2.2.0) T1032x2   0.450 5
+AF2-Multimer(2.3.0) T1032x2   0.461 6
+Zdock+AF2 T1032x2   0.330 1

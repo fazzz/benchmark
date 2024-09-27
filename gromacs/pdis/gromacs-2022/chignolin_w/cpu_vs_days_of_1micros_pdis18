@@ -1,0 +1,4 @@
+mcpu day/1micros (/home/yamamori/opt/gmx2022/bin/gmx_mpi)
+16 3.88784
+32 3.10416
+64 2.94806
