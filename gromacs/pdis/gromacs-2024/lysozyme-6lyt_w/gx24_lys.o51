@@ -1,0 +1,119 @@
+Loading compiler-rt version 2023.2.0
+Loading compiler version 2023.2.0
+Loading tbb version 2021.10.0
+Loading oclfpga version 2023.2.0
+  Load "debugger" to debug DPC++ applications with the gdb-oneapi debugger.
+  Load "dpl" for additional DPC++ APIs: https://github.com/oneapi-src/oneDPL
+Loading mkl version 2023.2.0
+Loading mpi version 2021.10.0
+
+Loading gromacs/2024.2
+  Loading requirement: compiler-rt/2023.2.0 tbb/latest oclfpga/latest
+    compiler/2023.2.0 mkl/2023.2.0 mpi/2021.10.0 oneapi/2023.2
+                      :-) GROMACS - gmx grompp, 2024.2 (-:
+
+Executable:   /opt/gromacs/2024.2/intel/bin/gmx_mpi
+Data prefix:  /opt/gromacs/2024.2/intel
+Working dir:  /home/yamamori/calspa/benchmarck/gromacs-2024/lysozyme-6lyt_w
+Command line:
+  gmx_mpi grompp -f input/production.mdp -o pdis25_28/production.tpr -c input/final_density_stabilization.gro -p input/topol.top
+
+Replacing old mdp entry 'nstxtcout' by 'nstxout-compressed'
+Setting the LD random seed to 1067447679
+
+Generated 2145 of the 2145 non-bonded parameter combinations
+Generating 1-4 interactions: fudge = 0.5
+
+Generated 2145 of the 2145 1-4 parameter combinations
+
+Excluding 3 bonded neighbours molecule type 'Protein_chain_A'
+
+turning H bonds into constraints...
+
+Excluding 2 bonded neighbours molecule type 'SOL'
+
+turning H bonds into constraints...
+
+Excluding 2 bonded neighbours molecule type 'SOL'
+
+Excluding 1 bonded neighbours molecule type 'NA'
+
+turning H bonds into constraints...
+
+Excluding 1 bonded neighbours molecule type 'CL'
+
+turning H bonds into constraints...
+Analysing residue names:
+There are:   129    Protein residues
+There are: 11320      Water residues
+There are:    64        Ion residues
+Analysing Protein...
+Number of degrees of freedom in T-Coupling group System is 73030.00
+
+The largest distance between excluded atoms is 0.432 nm between atom 1156 and 1405
+
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+
+Calculated rlist for 1x1 atom pair-list as 1.295 nm, buffer size 0.095 nm
+
+Set rlist, assuming 4x4 atom pair-list, to 1.223 nm, buffer size 0.023 nm
+
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 60x60x60, spacing 0.119 0.119 0.119
+
+Estimate for the relative computational load of the PME mesh part: 0.23
+
+This run will generate roughly 16 Mb of data
+
+GROMACS reminds you: "Not everyone is capable of madness; and of those lucky enough to be capable, not many have the courage for it." (August Strindberg)
+
+whoami: cannot find name for user ID 10012
+                      :-) GROMACS - gmx mdrun, 2024.2 (-:
+
+Executable:   /opt/gromacs/2024.2/intel/bin/gmx_mpi
+Data prefix:  /opt/gromacs/2024.2/intel
+Working dir:  /home/yamamori/calspa/benchmarck/gromacs-2024/lysozyme-6lyt_w/pdis25_28
+Command line:
+  gmx_mpi mdrun -noconfout -maxh 0.1 -deffnm production
+
+Reading file production.tpr, VERSION 2024.2 (single precision)
+Changing nstlist from 20 to 80, rlist from 1.223 to 1.322
+
+Using 28 MPI processes
+
+Non-default thread affinity set, disabling internal thread affinity
+
+Using 1 OpenMP thread per MPI process
+
+starting mdrun '3 TEMPERATURES in water'
+5000000 steps,  10000.0 ps.
+
+Step 184880: Run time exceeded 0.099 hours, will terminate the run within 200 steps
+
+
+Dynamic load balancing report:
+ DLB was turned on during the run due to measured imbalance.
+ Average load imbalance: 2.3%.
+ The balanceable part of the MD step is 92%, load imbalance is computed from this.
+ Part of the total run time spent waiting due to load imbalance: 2.2%.
+ Steps where the load balancing was limited by -rdd, -rcon and/or -dds: X 0 % Y 0 %
+ Average PME mesh/force load: 0.567
+ Part of the total run time spent waiting due to PP/PME imbalance: 11.1 %
+
+NOTE: 11.1 % performance was lost because the PME ranks
+      had less work to do than the PP ranks.
+      You might want to decrease the number of PME ranks
+      or decrease the cut-off and the grid spacing.
+
+
+               Core t (s)   Wall t (s)        (%)
+       Time:     9985.305      356.619     2800.0
+                 (ns/day)    (hour/ns)
+Performance:       89.623        0.268
+
+GROMACS reminds you: "Though the path of the comet is sure, it's constitution is not" (Peter Hammill)
+
+rm: 'production.trr' を削除できません: そのようなファイルやディレクトリはありません
+rm: 'mdout.mdp' を削除できません: そのようなファイルやディレクトリはありません
+rm: '#*' を削除できません: そのようなファイルやディレクトリはありません

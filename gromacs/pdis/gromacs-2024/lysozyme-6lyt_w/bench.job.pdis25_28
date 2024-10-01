@@ -1,0 +1,21 @@
+#! /bin/sh
+#PBS -l select=1:ncpus=28:mpiprocs=28:ompthreads=1:host=pdis25
+#PBS -j oe
+#PBS -N gx24_lys
+
+module load gromacs/2024.2
+source /opt/gromacs/2024.2/intel/bin/GMXRC
+
+gmx_mpi grompp -f input/production.mdp -o pdis25_28/production.tpr -c input/final_density_stabilization.gro -p input/topol.top
+
+cd pdis25_28
+
+mpirun -np 28 gmx_mpi mdrun -noconfout -maxh 0.1 -deffnm production
+
+rm production.edr
+rm production.tpr
+rm production.xtc
+rm production.trr
+rm mdout.mdp
+rm \#*
+

@@ -1,0 +1,199 @@
+Loading compiler-rt version 2023.2.0
+Loading compiler version 2023.2.0
+Loading tbb version 2021.10.0
+Loading oclfpga version 2023.2.0
+  Load "debugger" to debug DPC++ applications with the gdb-oneapi debugger.
+  Load "dpl" for additional DPC++ APIs: https://github.com/oneapi-src/oneDPL
+Loading mkl version 2023.2.0
+Loading mpi version 2021.10.0
+
+Loading gromacs/2024.2
+  Loading requirement: compiler-rt/2023.2.0 tbb/latest oclfpga/latest
+    compiler/2023.2.0 mkl/2023.2.0 mpi/2021.10.0 oneapi/2023.2
+                      :-) GROMACS - gmx grompp, 2024.2 (-:
+
+Executable:   /opt/gromacs/2024.2/intel/bin/gmx_mpi
+Data prefix:  /opt/gromacs/2024.2/intel
+Working dir:  /home/yamamori/calspa/benchmarck/gromacs-2024/lysozyme-6lyt_w
+Command line:
+  gmx_mpi grompp -f input/production.mdp -o pdis25_14/production.tpr -c input/final_density_stabilization.gro -p input/topol.top
+
+Replacing old mdp entry 'nstxtcout' by 'nstxout-compressed'
+Setting the LD random seed to -1611221505
+
+Generated 2145 of the 2145 non-bonded parameter combinations
+Generating 1-4 interactions: fudge = 0.5
+
+Generated 2145 of the 2145 1-4 parameter combinations
+
+Excluding 3 bonded neighbours molecule type 'Protein_chain_A'
+
+turning H bonds into constraints...
+
+Excluding 2 bonded neighbours molecule type 'SOL'
+
+turning H bonds into constraints...
+
+Excluding 2 bonded neighbours molecule type 'SOL'
+
+Excluding 1 bonded neighbours molecule type 'NA'
+
+turning H bonds into constraints...
+
+Excluding 1 bonded neighbours molecule type 'CL'
+
+turning H bonds into constraints...
+Analysing residue names:
+There are:   129    Protein residues
+There are: 11320      Water residues
+There are:    64        Ion residues
+Analysing Protein...
+Number of degrees of freedom in T-Coupling group System is 73030.00
+
+The largest distance between excluded atoms is 0.432 nm between atom 1156 and 1405
+
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+
+Calculated rlist for 1x1 atom pair-list as 1.295 nm, buffer size 0.095 nm
+
+Set rlist, assuming 4x4 atom pair-list, to 1.223 nm, buffer size 0.023 nm
+
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 60x60x60, spacing 0.119 0.119 0.119
+
+Estimate for the relative computational load of the PME mesh part: 0.23
+
+This run will generate roughly 16 Mb of data
+
+GROMACS reminds you: "Not everyone is capable of madness; and of those lucky enough to be capable, not many have the courage for it." (August Strindberg)
+
+whoami: cannot find name for user ID 10012
+                      :-) GROMACS - gmx mdrun, 2024.2 (-:
+
+Executable:   /opt/gromacs/2024.2/intel/bin/gmx_mpi
+Data prefix:  /opt/gromacs/2024.2/intel
+Working dir:  /home/yamamori/calspa/benchmarck/gromacs-2024/lysozyme-6lyt_w/pdis25_14
+Command line:
+  gmx_mpi mdrun -noconfout -maxh 0.1 -deffnm production
+
+Reading file production.tpr, VERSION 2024.2 (single precision)
+Changing nstlist from 20 to 80, rlist from 1.223 to 1.322
+
+
+-------------------------------------------------------
+Program:     gmx mdrun, version 2024.2
+Source file: src/gromacs/domdec/domdec_setup.cpp (line 854)
+MPI rank:    1 (out of 14)
+
+-------------------------------------------------------
+Program:     gmx mdrun, version 2024.2
+Source file: src/gromacs/domdec/domdec_setup.cpp (line 854)
+MPI rank:    2 (out of 14)
+
+Fatal error:
+
+-------------------------------------------------------
+Program:     gmx mdrun, version 2024.2
+Source file: src/gromacs/domdec/domdec_setup.cpp (line 854)
+MPI rank:    3 (out of 14)
+
+Fatal error:
+The number of ranks selected for particle-particle work (14) contains a large
+
+-------------------------------------------------------
+Program:     gmx mdrun, version 2024.2
+Source file: src/gromacs/domdec/domdec_setup.cpp (line 854)
+MPI rank:    4 (out of 14)
+
+Fatal error:
+The number of ranks selected for particle-particle work (14) contains a large
+prime factor 7. In most cases this will lead to bad performance. Choose a
+number with smaller prime factors or set the decomposition (option -dd)
+
+-------------------------------------------------------
+Program:     gmx mdrun, version 2024.2
+Source file: src/gromacs/domdec/domdec_setup.cpp (line 854)
+MPI rank:    5 (out of 14)
+
+Fatal error:
+The number of ranks selected for particle-particle work (14) contains a large
+prime factor 7. In most cases this will lead to bad performance. Choose a
+number with smaller prime factors or set the decomposition (option -dd)
+manually.
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at https://manual.gromacs.org/current/user-guide/run-time-errors.html
+-------------------------------------------------------
+
+-------------------------------------------------------
+Program:     gmx mdrun, version 2024.2
+Source file: src/gromacs/domdec/domdec_setup.cpp (line 854)
+MPI rank:    6 (out of 14)
+
+Fatal error:
+The number of ranks selected for particle-particle work (14) contains a large
+prime factor 7. In most cases this will lead to bad performance. Choose a
+number with smaller prime factors or set the decomposition (option -dd)
+manually.
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at https://manual.gromacs.org/current/user-guide/run-time-errors.html
+-------------------------------------------------------
+
+-------------------------------------------------------
+Program:     gmx mdrun, version 2024.2
+Source file: src/gromacs/domdec/domdec_setup.cpp (line 854)
+MPI rank:    0 (out of 14)
+
+Fatal error:
+The number of ranks selected for particle-particle work (14) contains a large
+prime factor 7. In most cases this will lead to bad performance. Choose a
+number with smaller prime factors or set the decomposition (option -dd)
+manually.
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at https://manual.gromacs.org/current/user-guide/run-time-errors.html
+-------------------------------------------------------
+
+Fatal error:
+The number of ranks selected for particle-particle work (14) contains a large
+prime factor 7. In most cases this will lead to bad performance. Choose a
+number with smaller prime factors or set the decomposition (option -dd)
+manually.
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at https://manual.gromacs.org/current/user-guide/run-time-errors.html
+-------------------------------------------------------
+Abort(1) on node 1 (rank 1 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 1
+The number of ranks selected for particle-particle work (14) contains a large
+prime factor 7. In most cases this will lead to bad performance. Choose a
+number with smaller prime factors or set the decomposition (option -dd)
+manually.
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at https://manual.gromacs.org/current/user-guide/run-time-errors.html
+-------------------------------------------------------
+Abort(1) on node 2 (rank 2 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 2
+prime factor 7. In most cases this will lead to bad performance. Choose a
+number with smaller prime factors or set the decomposition (option -dd)
+manually.
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at https://manual.gromacs.org/current/user-guide/run-time-errors.html
+-------------------------------------------------------
+Abort(1) on node 3 (rank 3 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 3
+manually.
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at https://manual.gromacs.org/current/user-guide/run-time-errors.html
+-------------------------------------------------------
+Abort(1) on node 4 (rank 4 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 4
+Abort(1) on node 0 (rank 0 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 0
+Abort(1) on node 5 (rank 5 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 5
+Abort(1) on node 6 (rank 6 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 6
+rm: 'production.edr' を削除できません: そのようなファイルやディレクトリはありません
+rm: 'production.xtc' を削除できません: そのようなファイルやディレクトリはありません
+rm: 'production.trr' を削除できません: そのようなファイルやディレクトリはありません
+rm: 'mdout.mdp' を削除できません: そのようなファイルやディレクトリはありません
+rm: '#*' を削除できません: そのようなファイルやディレクトリはありません
