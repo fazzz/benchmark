@@ -1,0 +1,7 @@
+﻿title,reference,group,note
+Benchmarking Peptide Structure Prediction with AlphaFold2,https://www.biorxiv.org/content/10.1101/2022.02.17.480937v1,,BM5.5 vs AF2/AF2-Multimer etc
+Evaluation of AlphaFold-Multimer prediction on large protein complexes,https://gitlab.com/ElofssonLab/afm-benchmark,Elofsson,"AF2 multimer vs FoldDock on PDB multimer during 2018/04-2022/06 ~1,000"
+The accuracy of protein structures in solution determined by AlphaFold and NMR,https://doi.org/10.1016/j.str.2022.04.005,Williamson,"AF2 vs NMR on 972 human protein, AF2 is usually better than NMR structure"
+A structural biology community assessment of AlphaFold2 applications,https://www.nature.com/articles/s41594-022-00849-w,Beltaro and other groups,"Assesement of AFDB (especially, human protein), confidence, IDR, pocket, etc."
+AlphaFold predictions: great hypotheses but no match for experiment,https://www.biorxiv.org/content/10.1101/2022.11.21.517405v1,Adams,"AF2 vs >100 crystal structures, even AF2 with high confidence can fall into wring structure (2A of CA)"
+State-of-the-Art Estimation of Protein Model Accuracy Using AlphaFold,https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.129.238101,Ovchinnikov,AF2 can learn accurate energy potential without MSA(co-evolution information) but can not be optimized wothout MSA

@@ -1,0 +1,26 @@
+﻿DB,availabirity,code,reference,contents,size,latest version,note,organization
+AlphaFoldDB,https://alphafold.ebi.ac.uk/,/,https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkab1061/6430488,predicted coordinates w pLDDT and PAE,> 200 millions,3,"214,683,839 structures from 48 proteomes (in. Human)",EBI+DeepMind
+AFDBcluster,https://cluster.foldseek.com/,,https://www.nature.com/articles/s41586-023-06510-w,clustered AFDB,,,,Steinegger
+AlphaFill,https://alphafill.eu/,https://github.com/PDB-REDO/alphafill,https://www.biorxiv.org/content/10.1101/2021.11.26.470110v1,AFDB structure with predicted ligand / cofactor ion position,,,ligand and cofactor binding prediction for AFDB models,
+PDBsum,http://www.ebi.ac.uk/pdbsum/,/,,annotated structure data inc. AFDB structure of human protein,only human for AF structures,,can search AFDB via uniprotID (Human protein only),
+ModelArchive,https://www.modelarchive.org/,,,inc. RoseTTaFold structures,">500,000",,,
+ProBis-Fold *,http://probis-fold.insilab.org/,,https://pubs.acs.org/doi/10.1021/acs.jcim.2c00947?utm_source=SendGrid_ealert&utm_medium=ealert&utm_campaign=ASAP_jcisd8_v0_i0,annotated structures for druggable site,human AF structures,,,
+ESMAtlas,https://esmatlas.com/,https://github.com/facebookresearch/esm,,predicted structure by ESMfold,> 617 millions,,,MetaAI
+CC+,not available?,,https://onlinelibrary.wiley.com/doi/10.1002/pro.4789,coiled-coil structure database,,,including alphafold models,
+PED,https://proteinensemble.org/,,,IDP stcrure database,,,,
+,,,,,,,,
+,,,,,,,,
+* not available?,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+possibility of AFDB mistake,,,,,,,,
+https://twitter.com/korotkov_lab/status/1556412466258747398,,,,,,,,
+https://twitter.com/thesteinegger/status/1576294738910621696,,,,,,,,
+search CSM through RCSB PDB,,,,,,,,
+https://www.rcsb.org/news/6304ee57707ecd4f63b3d3db,,,,,,,,

@@ -1,0 +1,9 @@
+﻿method,code,reference,note,
+ALphaFold2-IDR-complex-prediction,https://github.com/normandavey/AlphaFold2-IDR-complex-prediction,https://www.biorxiv.org/content/10.1101/2021.09.26.461876v1,AF-(smmothed)-pLDDT and AF-(smoothed)-RSASA based method,
+AlphaFoldDisorderData,https://github.com/SoftSimu/AlphaFoldDisorderData,https://www.biorxiv.org/content/10.1101/2021.09.27.461910v1,,Willson
+AlphaFold-disorder,https://github.com/BioComputingUP/AlphaFold-disorder,"https://www.biorxiv.org/content/10.1101/2022.03.03.482768v1
+https://onlinelibrary.wiley.com/doi/10.1002/pro.4466",AF-(smmothed)-pLDDT and AF-(smoothed)-RSASA based method,
+ADOPT,https://github.com/PeptoneLtd/ADOPT,https://www.biorxiv.org/content/10.1101/2022.05.25.493416v2,bidirectional transformer,
+SETH,https://github.com/DagmarIlz/SETH,https://www.biorxiv.org/content/10.1101/2022.06.23.497276v2,ProtT5,
+,,https://www.biorxiv.org/content/10.1101/2022.02.18.481080v1,,
+AF2.IDR,https://github.com/IPritisanac/AF2.IDR,https://www.pnas.org/doi/10.1073/pnas.2304302120,,

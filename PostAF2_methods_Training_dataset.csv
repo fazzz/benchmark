@@ -1,0 +1,7 @@
+﻿Dataset,availabirity,size,reference,MSA,PSPM,coordinate,Licecse,note,group
+ProteinNet,https://github.com/aqlaboratory/proteinnet,,https://doi.org/10.1186/s12859-019-2932-0,for request,yes,yes,,,AlQuraishi(Openfold)
+SidechainNet,https://github.com/jonathanking/sidechainnet,,https://onlinelibrary.wiley.com/doi/10.1002/prot.26169,no,yes,yes,,,Koes Group
+TrRosetta,https://yanglab.nankai.edu.cn/trRosetta/benchmark/,15K(PDB),https://doi.org/10.1038/s41596-021-00628-9,yes,no,yes,,,Yang Group
+PSP,http://ftp.cbi.pku.edu.cn/psp/,"570 K(PDB+AF-predicted), 750K (distillation)",https://arxiv.org/abs/2206.12240,yes,no,yes,CC BY 4.0,,Megafold
+openfold dataset,https://registry.opendata.aws/openfold/,"132K (PDB-2021-12), 270K(Uniclust)",?,yes,no,yes,CC BY 4.0,"Hhblits+BFD/Uniclust30, JackHummer+Mgnify, JackHummer+Uniref90",Openfold
+ALphaDesign,,,https://arxiv.org/abs/2202.01079,,,,,,

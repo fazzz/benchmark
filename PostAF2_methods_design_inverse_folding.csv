@@ -1,0 +1,30 @@
+﻿method,code,object,model,web server,reference ,note,group
+ColabDesign(Afdesign),https://github.com/sokrypton/ColabDesign,,AF2-based,,,using AF2 and other methods for design,Ovchinnikov
+AlphaDesign,,,AF2-based,,https://www.biorxiv.org/content/10.1101/2021.10.11.463937v1,,
+BO+AF,,,Af2-based,,https://www.biorxiv.org/content/10.1101/2022.08.05.502972v1,sequence design for peptides / proteins,White
+AFDesign+ProteinMPNN,https://colab.research.google.com/github/sokrypton/ColabDesign/blob/v1.1.0/mpnn/examples/afdesign_and_proteinmpnn_bias.ipynb,,,,,,
+(hallucination),https://github.com/gjoni/trDesign,random seqence to sequence,trRosseta-based,,https://doi.org/10.1038/s41586-021-04184-w,,
+(constraint-hullucination),,seqence/structure to sequence/structure,trRosseta-based,,https://www.biorxiv.org/content/10.1101/2020.11.29.402743v1.full,,
+Rfjoint,https://github.com/RosettaCommons/RFDesign,seqence/structure to sequence/structure,RosettaFold-based,,https://www.science.org/doi/10.1126/science.abn2100,,
+oligomer Hallucination,https://github.com/bwicky/oligomer_hallucination,seqence/structure to sequence/structure,AF2-based,,https://www.science.org/doi/10.1126/science.add1964,,
+(Hallucination of closed repeat proteins),,seqence/structure to sequence/structure,AF2-based,,https://www.biorxiv.org/content/10.1101/2022.09.01.506251v1,,
+AF2Rank(design),https://github.com/jproney/AF2Rank,seqence/structure to sequence/structure,AF2-based,,https://www.biorxiv.org/content/10.1101/2022.03.11.484043v3,,
+,,structure generation (function to structure),GAN-based,,https://proceedings.neurips.cc/paper/2018/file/afa299a4d1d8c52e75dd8a24c3ce534f-Paper.pdf,,
+IG-VAE,,structure generation (function to structure),VAE-based,,https://www.biorxiv.org/content/10.1101/2020.08.07.242347v2,,
+,,structure generation (function to structure),MLP-based,,https://www.nature.com/articles/s41586-021-04383-5,,
+SMCDiff,,structure generation (function to structure),Diffusion-based,,https://arxiv.org/abs/2206.04119,,
+SPIN2,,structure-based design (structure to sequence),MLP-based,,https://onlinelibrary.wiley.com/doi/abs/10.1002/prot.25489,,
+,,structure-based design (structure to sequence),VAE-based,,https://www.nature.com/articles/s41598-018-34533-1,,
+ProteinMPNN,https://github.com/dauparas/ProteinMPNN,structure to sequence,GNN-based,,https://www.biorxiv.org/content/10.1101/2022.06.03.494563v1.article-metrics,,Baker
+Rfdiffusion,https://github.com/RosettaCommons/Rfdiffusion,,diffusion model,,https://www.nature.com/articles/s41586-023-06415-8,,Baker
+,,,,,,,
+,,,,,,,
+,,,,,,,
+https://generatebiomedicines.com/chroma,,,,,,,
+,,,,,,,
+,,,,,,,
+see the useful resource,,,,,,,
+https://github.com/hefeda/design_tools,,,,,,,
+https://github.com/Peldom/papers_for_protein_design_using_DL,,,,,,,
+https://github.com/opendilab/awesome-AI-based-protein-design,,,,,,,
+https://docs.google.com/spreadsheets/d/1ikiDyS1TcayyFcdfhywSHQCAwjM3IJOwFB7FGKl8wfc/edit#gid=0,,,,,,,
