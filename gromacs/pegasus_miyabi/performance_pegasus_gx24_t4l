@@ -1,0 +1,5 @@
+nnode ncpu nthreads ns/day  (/work/ANOM/share/opt/gmx2024.4/bin/gmx_mpi) 
+1 1 48
+2 1 48 478.417
+3 1 48 583.710
+4 1 48 641.334

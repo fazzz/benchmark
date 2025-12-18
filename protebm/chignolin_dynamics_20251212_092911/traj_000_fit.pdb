@@ -1,0 +1,1200 @@
+ATOM      1  CA  TYR A   1       5.134   4.692  -1.978
+ATOM      2  CA  TYR A   2       3.350   1.943  -1.733
+ATOM      3  CA  ASP A   3       3.439  -0.050   2.354
+ATOM      4  CA  PRO A   4       3.186  -2.661   2.426
+ATOM      5  CA  GLU A   5       1.437  -4.136   5.072
+ATOM      6  CA  THR A   6      -1.880  -2.058   3.683
+ATOM      7  CA  GLY A   7      -2.180  -1.779   0.834
+ATOM      8  CA  THR A   8      -3.101   2.402   0.754
+ATOM      9  CA  TRP A   9      -1.382   4.290  -2.583
+ATOM     10  CA  TYR A  10      -0.260   8.584  -3.596
+TER
+END
+ATOM      1  CA  TYR A   1       5.348   4.957  -2.024
+ATOM      2  CA  TYR A   2       3.117   1.922  -1.873
+ATOM      3  CA  ASP A   3       3.605  -0.095   2.371
+ATOM      4  CA  PRO A   4       3.156  -2.709   2.098
+ATOM      5  CA  GLU A   5       1.315  -4.137   5.208
+ATOM      6  CA  THR A   6      -2.002  -1.893   3.861
+ATOM      7  CA  GLY A   7      -1.954  -1.889   1.092
+ATOM      8  CA  THR A   8      -3.433   2.241   0.571
+ATOM      9  CA  TRP A   9      -1.211   4.391  -2.696
+ATOM     10  CA  TYR A  10      -0.200   8.438  -3.374
+TER
+END
+ATOM      1  CA  TYR A   1       5.031   4.797  -1.779
+ATOM      2  CA  TYR A   2       2.921   1.684  -2.179
+ATOM      3  CA  ASP A   3       3.703   0.434   2.446
+ATOM      4  CA  PRO A   4       3.030  -2.747   2.042
+ATOM      5  CA  GLU A   5       1.303  -4.228   5.332
+ATOM      6  CA  THR A   6      -2.008  -1.862   3.902
+ATOM      7  CA  GLY A   7      -1.839  -1.916   0.817
+ATOM      8  CA  THR A   8      -3.093   2.180   0.640
+ATOM      9  CA  TRP A   9      -1.221   4.505  -2.678
+ATOM     10  CA  TYR A  10      -0.084   8.382  -3.309
+TER
+END
+ATOM      1  CA  TYR A   1       4.704   3.621  -3.205
+ATOM      2  CA  TYR A   2       2.541   0.687  -2.897
+ATOM      3  CA  ASP A   3       3.213  -0.222   1.972
+ATOM      4  CA  PRO A   4       2.306  -3.484   1.450
+ATOM      5  CA  GLU A   5       1.139  -4.233   4.979
+ATOM      6  CA  THR A   6      -1.971  -1.368   4.582
+ATOM      7  CA  GLY A   7      -2.129  -1.641   0.947
+ATOM      8  CA  THR A   8      -3.284   2.334   0.754
+ATOM      9  CA  TRP A   9      -1.211   4.428  -2.779
+ATOM     10  CA  TYR A  10      -0.196   7.944  -3.334
+TER
+END
+ATOM      1  CA  TYR A   1       5.238   4.757  -2.077
+ATOM      2  CA  TYR A   2       3.505   1.649  -2.471
+ATOM      3  CA  ASP A   3       2.998   0.449   2.392
+ATOM      4  CA  PRO A   4       3.118  -2.970   2.135
+ATOM      5  CA  GLU A   5       1.369  -4.208   5.296
+ATOM      6  CA  THR A   6      -1.925  -1.705   4.506
+ATOM      7  CA  GLY A   7      -1.888  -1.757   0.856
+ATOM      8  CA  THR A   8      -3.224   2.007   0.286
+ATOM      9  CA  TRP A   9      -0.978   4.600  -3.051
+ATOM     10  CA  TYR A  10      -0.472   8.405  -2.637
+TER
+END
+ATOM      1  CA  TYR A   1       5.047   4.799  -2.074
+ATOM      2  CA  TYR A   2       3.192   1.811  -2.391
+ATOM      3  CA  ASP A   3       3.140   0.346   2.197
+ATOM      4  CA  PRO A   4       3.143  -3.059   2.332
+ATOM      5  CA  GLU A   5       1.242  -4.079   5.425
+ATOM      6  CA  THR A   6      -1.619  -2.120   4.352
+ATOM      7  CA  GLY A   7      -1.835  -1.504   0.842
+ATOM      8  CA  THR A   8      -3.420   2.151   0.246
+ATOM      9  CA  TRP A   9      -0.884   4.562  -3.000
+ATOM     10  CA  TYR A  10      -0.264   8.320  -2.694
+TER
+END
+ATOM      1  CA  TYR A   1       5.597   5.412  -1.749
+ATOM      2  CA  TYR A   2       3.469   2.315  -1.908
+ATOM      3  CA  ASP A   3       3.162   0.138   2.389
+ATOM      4  CA  PRO A   4       3.223  -2.748   2.187
+ATOM      5  CA  GLU A   5       1.386  -4.278   5.007
+ATOM      6  CA  THR A   6      -1.655  -1.798   3.804
+ATOM      7  CA  GLY A   7      -1.319  -1.000   0.534
+ATOM      8  CA  THR A   8      -2.566   2.154   0.126
+ATOM      9  CA  TRP A   9      -0.193   5.313  -2.386
+ATOM     10  CA  TYR A  10       0.709   9.125  -1.604
+TER
+END
+ATOM      1  CA  TYR A   1       5.516   5.305  -1.693
+ATOM      2  CA  TYR A   2       3.622   2.449  -1.906
+ATOM      3  CA  ASP A   3       3.039   0.139   2.387
+ATOM      4  CA  PRO A   4       3.033  -2.896   1.989
+ATOM      5  CA  GLU A   5       1.426  -4.116   5.210
+ATOM      6  CA  THR A   6      -1.536  -1.947   3.799
+ATOM      7  CA  GLY A   7      -1.111  -0.986   0.802
+ATOM      8  CA  THR A   8      -2.579   2.100   0.129
+ATOM      9  CA  TRP A   9      -0.474   5.234  -2.614
+ATOM     10  CA  TYR A  10       0.375   8.947  -1.799
+TER
+END
+ATOM      1  CA  TYR A   1       5.675   5.334  -1.786
+ATOM      2  CA  TYR A   2       3.418   2.312  -1.828
+ATOM      3  CA  ASP A   3       2.991   0.354   2.377
+ATOM      4  CA  PRO A   4       3.643  -3.123   2.035
+ATOM      5  CA  GLU A   5       1.043  -4.068   4.967
+ATOM      6  CA  THR A   6      -1.511  -1.846   3.929
+ATOM      7  CA  GLY A   7      -1.128  -0.996   0.537
+ATOM      8  CA  THR A   8      -2.149   2.202  -0.030
+ATOM      9  CA  TRP A   9      -0.187   5.156  -2.625
+ATOM     10  CA  TYR A  10       0.311   9.093  -2.536
+TER
+END
+ATOM      1  CA  TYR A   1       5.674   5.487  -1.760
+ATOM      2  CA  TYR A   2       3.220   2.227  -1.608
+ATOM      3  CA  ASP A   3       3.086   0.341   2.454
+ATOM      4  CA  PRO A   4       3.582  -3.301   1.922
+ATOM      5  CA  GLU A   5       0.952  -3.738   4.962
+ATOM      6  CA  THR A   6      -1.256  -1.900   3.751
+ATOM      7  CA  GLY A   7      -1.197  -1.225   0.050
+ATOM      8  CA  THR A   8      -2.127   2.405  -0.139
+ATOM      9  CA  TRP A   9      -0.228   5.262  -2.089
+ATOM     10  CA  TYR A  10       0.119   8.989  -2.075
+TER
+END
+ATOM      1  CA  TYR A   1       3.838   3.948  -4.228
+ATOM      2  CA  TYR A   2       0.975   0.752  -3.140
+ATOM      3  CA  ASP A   3       2.395  -0.028   1.056
+ATOM      4  CA  PRO A   4       2.841  -4.179   0.827
+ATOM      5  CA  GLU A   5       1.261  -3.888   4.885
+ATOM      6  CA  THR A   6      -1.305  -2.078   4.021
+ATOM      7  CA  GLY A   7      -2.402  -1.444   0.550
+ATOM      8  CA  THR A   8      -2.930   2.096   0.448
+ATOM      9  CA  TRP A   9      -1.684   4.092  -2.368
+ATOM     10  CA  TYR A  10      -0.941   8.060  -3.456
+TER
+END
+ATOM      1  CA  TYR A   1       5.109   4.567  -2.419
+ATOM      2  CA  TYR A   2       2.382   1.433  -1.731
+ATOM      3  CA  ASP A   3       2.087   0.969   2.661
+ATOM      4  CA  PRO A   4       3.159  -2.694   3.010
+ATOM      5  CA  GLU A   5       0.685  -2.428   6.211
+ATOM      6  CA  THR A   6      -2.191  -1.008   5.021
+ATOM      7  CA  GLY A   7      -2.304  -1.484   0.924
+ATOM      8  CA  THR A   8      -2.990   2.142   0.392
+ATOM      9  CA  TRP A   9      -1.362   4.217  -2.154
+ATOM     10  CA  TYR A  10      -0.163   8.190  -3.573
+TER
+END
+ATOM      1  CA  TYR A   1       6.648   4.999  -1.733
+ATOM      2  CA  TYR A   2       3.243   2.227  -1.721
+ATOM      3  CA  ASP A   3       2.832   0.004   2.841
+ATOM      4  CA  PRO A   4       3.650  -3.169   1.660
+ATOM      5  CA  GLU A   5       1.317  -3.804   5.094
+ATOM      6  CA  THR A   6      -1.458  -1.630   3.606
+ATOM      7  CA  GLY A   7      -1.823  -1.377   0.047
+ATOM      8  CA  THR A   8      -2.076   1.902   0.733
+ATOM      9  CA  TRP A   9      -0.397   4.770  -1.091
+ATOM     10  CA  TYR A  10       1.362   9.036  -1.199
+TER
+END
+ATOM      1  CA  TYR A   1       6.408   4.955  -1.795
+ATOM      2  CA  TYR A   2       3.333   2.421  -1.682
+ATOM      3  CA  ASP A   3       2.621  -0.196   2.346
+ATOM      4  CA  PRO A   4       4.102  -3.022   1.867
+ATOM      5  CA  GLU A   5       1.076  -3.953   5.179
+ATOM      6  CA  THR A   6      -1.548  -1.622   3.770
+ATOM      7  CA  GLY A   7      -1.537  -2.540  -0.428
+ATOM      8  CA  THR A   8      -1.721   0.736   0.230
+ATOM      9  CA  TRP A   9      -0.184   3.711  -1.971
+ATOM     10  CA  TYR A  10       0.727   8.099  -2.343
+TER
+END
+ATOM      1  CA  TYR A   1       5.586   4.739  -2.377
+ATOM      2  CA  TYR A   2       2.842   1.618  -1.339
+ATOM      3  CA  ASP A   3       2.324   0.160   2.460
+ATOM      4  CA  PRO A   4       4.297  -2.847   1.963
+ATOM      5  CA  GLU A   5       1.173  -3.945   5.143
+ATOM      6  CA  THR A   6      -1.473  -1.810   3.820
+ATOM      7  CA  GLY A   7      -1.299  -3.208  -0.238
+ATOM      8  CA  THR A   8      -2.092   0.001  -0.124
+ATOM      9  CA  TRP A   9      -1.019   3.389  -2.368
+ATOM     10  CA  TYR A  10      -0.510   7.522  -2.645
+TER
+END
+ATOM      1  CA  TYR A   1       6.537   4.567  -1.738
+ATOM      2  CA  TYR A   2       2.727   1.163  -0.921
+ATOM      3  CA  ASP A   3       2.866   0.415   2.597
+ATOM      4  CA  PRO A   4       3.950  -3.314   1.757
+ATOM      5  CA  GLU A   5       1.129  -3.997   4.982
+ATOM      6  CA  THR A   6      -1.560  -1.544   3.731
+ATOM      7  CA  GLY A   7      -1.293  -2.533  -0.557
+ATOM      8  CA  THR A   8      -1.744   0.576  -0.038
+ATOM      9  CA  TRP A   9       0.139   4.176  -1.977
+ATOM     10  CA  TYR A  10       0.721   7.858  -1.722
+TER
+END
+ATOM      1  CA  TYR A   1       6.411   5.042  -1.375
+ATOM      2  CA  TYR A   2       3.064   1.586  -0.936
+ATOM      3  CA  ASP A   3       3.033   0.212   2.702
+ATOM      4  CA  PRO A   4       3.687  -3.193   1.762
+ATOM      5  CA  GLU A   5       1.229  -3.731   4.877
+ATOM      6  CA  THR A   6      -1.565  -1.729   3.726
+ATOM      7  CA  GLY A   7      -1.719  -2.687  -0.491
+ATOM      8  CA  THR A   8      -1.660   0.068   0.036
+ATOM      9  CA  TRP A   9       0.162   3.918  -1.549
+ATOM     10  CA  TYR A  10       0.807   7.695  -1.407
+TER
+END
+ATOM      1  CA  TYR A   1       6.319   5.185  -1.502
+ATOM      2  CA  TYR A   2       2.958   1.756  -1.290
+ATOM      3  CA  ASP A   3       3.230   0.519   2.552
+ATOM      4  CA  PRO A   4       3.764  -2.939   1.558
+ATOM      5  CA  GLU A   5       0.614  -3.902   5.033
+ATOM      6  CA  THR A   6      -0.981  -1.806   3.627
+ATOM      7  CA  GLY A   7      -1.193  -2.652  -0.702
+ATOM      8  CA  THR A   8      -2.177  -0.142   0.085
+ATOM      9  CA  TRP A   9       0.047   3.220  -2.013
+ATOM     10  CA  TYR A  10       0.375   7.466  -1.239
+TER
+END
+ATOM      1  CA  TYR A   1       5.304   4.782  -4.189
+ATOM      2  CA  TYR A   2       1.597   2.322  -1.687
+ATOM      3  CA  ASP A   3       2.631   2.450   1.526
+ATOM      4  CA  PRO A   4       2.759  -1.638   1.410
+ATOM      5  CA  GLU A   5       0.548  -0.681   5.668
+ATOM      6  CA  THR A   6      -1.509   1.399   4.407
+ATOM      7  CA  GLY A   7      -2.279  -0.932   0.769
+ATOM      8  CA  THR A   8      -3.182   1.821   0.900
+ATOM      9  CA  TRP A   9      -1.247   3.948  -2.694
+ATOM     10  CA  TYR A  10      -0.112   8.228  -3.386
+TER
+END
+ATOM      1  CA  TYR A   1       5.419   4.566  -3.712
+ATOM      2  CA  TYR A   2       1.452   2.510  -1.023
+ATOM      3  CA  ASP A   3       2.388   3.023   1.998
+ATOM      4  CA  PRO A   4       2.473  -0.602   1.845
+ATOM      5  CA  GLU A   5       0.256  -0.007   6.350
+ATOM      6  CA  THR A   6      -1.333   1.681   4.823
+ATOM      7  CA  GLY A   7      -2.368  -0.786   0.632
+ATOM      8  CA  THR A   8      -3.016   2.063   0.796
+ATOM      9  CA  TRP A   9      -1.100   3.685  -2.559
+ATOM     10  CA  TYR A  10      -0.336   8.103  -3.280
+TER
+END
+ATOM      1  CA  TYR A   1       5.600   4.569  -1.923
+ATOM      2  CA  TYR A   2       2.532   1.345  -0.838
+ATOM      3  CA  ASP A   3       2.999   0.838   2.355
+ATOM      4  CA  PRO A   4       3.830  -2.589   1.271
+ATOM      5  CA  GLU A   5       1.073  -4.144   5.153
+ATOM      6  CA  THR A   6      -0.979  -1.993   4.376
+ATOM      7  CA  GLY A   7      -0.914  -3.311  -0.993
+ATOM      8  CA  THR A   8      -1.848  -0.815  -0.397
+ATOM      9  CA  TRP A   9      -0.069   2.091  -2.582
+ATOM     10  CA  TYR A  10      -0.981   6.345  -1.652
+TER
+END
+ATOM      1  CA  TYR A   1       6.570   3.628  -2.254
+ATOM      2  CA  TYR A   2       3.205   0.944  -1.172
+ATOM      3  CA  ASP A   3       3.355   0.494   2.339
+ATOM      4  CA  PRO A   4       3.643  -2.917   1.837
+ATOM      5  CA  GLU A   5       0.781  -4.093   5.074
+ATOM      6  CA  THR A   6      -1.395  -1.924   3.817
+ATOM      7  CA  GLY A   7      -0.887  -3.632  -1.167
+ATOM      8  CA  THR A   8      -1.450  -1.019  -0.798
+ATOM      9  CA  TRP A   9       0.438   1.444  -3.215
+ATOM     10  CA  TYR A  10       0.345   5.831  -2.261
+TER
+END
+ATOM      1  CA  TYR A   1       5.956   4.319  -2.358
+ATOM      2  CA  TYR A   2       3.120   1.473  -1.137
+ATOM      3  CA  ASP A   3       3.197   0.683   2.545
+ATOM      4  CA  PRO A   4       3.757  -2.903   1.507
+ATOM      5  CA  GLU A   5       1.115  -3.970   4.806
+ATOM      6  CA  THR A   6      -1.605  -1.654   3.759
+ATOM      7  CA  GLY A   7      -0.740  -3.732  -1.001
+ATOM      8  CA  THR A   8      -1.321  -0.222  -0.956
+ATOM      9  CA  TRP A   9       0.186   1.835  -3.556
+ATOM     10  CA  TYR A  10      -0.209   6.390  -2.337
+TER
+END
+ATOM      1  CA  TYR A   1       5.395   4.283  -2.192
+ATOM      2  CA  TYR A   2       2.774   1.800  -0.755
+ATOM      3  CA  ASP A   3       3.010   0.743   2.471
+ATOM      4  CA  PRO A   4       3.715  -2.596   1.646
+ATOM      5  CA  GLU A   5       1.141  -4.210   4.847
+ATOM      6  CA  THR A   6      -1.433  -1.354   3.888
+ATOM      7  CA  GLY A   7      -1.753  -3.507  -0.502
+ATOM      8  CA  THR A   8      -2.297   0.990   0.024
+ATOM      9  CA  TRP A   9      -0.354   2.466  -2.266
+ATOM     10  CA  TYR A  10       0.283   7.045  -0.729
+TER
+END
+ATOM      1  CA  TYR A   1       5.541   4.274  -2.089
+ATOM      2  CA  TYR A   2       2.579   1.542  -0.703
+ATOM      3  CA  ASP A   3       2.857   0.664   2.640
+ATOM      4  CA  PRO A   4       3.821  -2.442   1.395
+ATOM      5  CA  GLU A   5       1.238  -4.019   4.774
+ATOM      6  CA  THR A   6      -1.296  -0.964   4.057
+ATOM      7  CA  GLY A   7      -1.692  -2.898  -0.302
+ATOM      8  CA  THR A   8      -1.971   0.944   0.225
+ATOM      9  CA  TRP A   9      -0.024   3.248  -2.137
+ATOM     10  CA  TYR A  10       1.041   7.629  -0.358
+TER
+END
+ATOM      1  CA  TYR A   1       4.981   4.323  -1.901
+ATOM      2  CA  TYR A   2       2.226   1.641  -0.467
+ATOM      3  CA  ASP A   3       2.709   0.885   2.174
+ATOM      4  CA  PRO A   4       3.549  -2.564   1.026
+ATOM      5  CA  GLU A   5       1.006  -3.463   4.827
+ATOM      6  CA  THR A   6      -1.001  -0.912   3.971
+ATOM      7  CA  GLY A   7      -2.752  -2.141   0.079
+ATOM      8  CA  THR A   8      -2.431   1.564   0.715
+ATOM      9  CA  TRP A   9      -0.617   3.541  -1.718
+ATOM     10  CA  TYR A  10       0.516   7.486   0.275
+TER
+END
+ATOM      1  CA  TYR A   1       5.557   4.301  -1.823
+ATOM      2  CA  TYR A   2       2.474   1.176  -0.307
+ATOM      3  CA  ASP A   3       2.806   0.884   2.041
+ATOM      4  CA  PRO A   4       4.075  -2.562   1.179
+ATOM      5  CA  GLU A   5       1.123  -3.780   4.928
+ATOM      6  CA  THR A   6      -1.215  -1.464   3.423
+ATOM      7  CA  GLY A   7      -2.067  -2.401  -0.550
+ATOM      8  CA  THR A   8      -2.385   0.874  -0.834
+ATOM      9  CA  TRP A   9      -0.586   2.956  -1.985
+ATOM     10  CA  TYR A  10       0.426   6.899  -0.483
+TER
+END
+ATOM      1  CA  TYR A   1       5.275   4.766  -1.740
+ATOM      2  CA  TYR A   2       1.797   1.584   0.537
+ATOM      3  CA  ASP A   3       2.856   0.830   2.686
+ATOM      4  CA  PRO A   4       3.449  -3.169   1.083
+ATOM      5  CA  GLU A   5       1.091  -4.180   5.016
+ATOM      6  CA  THR A   6      -1.414  -1.321   4.483
+ATOM      7  CA  GLY A   7      -2.530  -1.970   0.889
+ATOM      8  CA  THR A   8      -2.751   1.804   0.459
+ATOM      9  CA  TRP A   9      -0.941   3.804  -0.131
+ATOM     10  CA  TYR A  10       0.698   7.196   0.951
+TER
+END
+ATOM      1  CA  TYR A   1       5.483   6.477   1.919
+ATOM      2  CA  TYR A   2       1.736   2.201   2.533
+ATOM      3  CA  ASP A   3       2.288   1.126   4.254
+ATOM      4  CA  PRO A   4       3.700  -2.629   2.100
+ATOM      5  CA  GLU A   5       0.939  -3.842   4.684
+ATOM      6  CA  THR A   6      -1.624  -2.009   4.568
+ATOM      7  CA  GLY A   7      -2.112  -1.752   0.351
+ATOM      8  CA  THR A   8      -2.589   2.066   0.687
+ATOM      9  CA  TRP A   9      -0.850   4.542   1.159
+ATOM     10  CA  TYR A  10      -0.104   7.376   3.853
+TER
+END
+ATOM      1  CA  TYR A   1       5.045   6.897   2.779
+ATOM      2  CA  TYR A   2       1.605   2.646   2.774
+ATOM      3  CA  ASP A   3       2.093   0.723   4.517
+ATOM      4  CA  PRO A   4       3.642  -2.647   2.316
+ATOM      5  CA  GLU A   5       1.233  -4.056   4.595
+ATOM      6  CA  THR A   6      -1.761  -1.667   4.389
+ATOM      7  CA  GLY A   7      -2.211  -1.860   0.404
+ATOM      8  CA  THR A   8      -2.808   2.164   1.122
+ATOM      9  CA  TRP A   9      -1.060   4.768   1.652
+ATOM     10  CA  TYR A  10      -0.679   7.291   4.502
+TER
+END
+ATOM      1  CA  TYR A   1       5.070   6.944   3.253
+ATOM      2  CA  TYR A   2       1.568   2.260   2.732
+ATOM      3  CA  ASP A   3       1.878   0.605   4.565
+ATOM      4  CA  PRO A   4       3.279  -2.637   2.127
+ATOM      5  CA  GLU A   5       1.560  -4.195   4.969
+ATOM      6  CA  THR A   6      -1.903  -1.749   4.633
+ATOM      7  CA  GLY A   7      -2.033  -1.649  -0.025
+ATOM      8  CA  THR A   8      -2.470   1.885   1.173
+ATOM      9  CA  TRP A   9      -0.948   4.882   2.211
+ATOM     10  CA  TYR A  10      -0.480   7.432   4.405
+TER
+END
+ATOM      1  CA  TYR A   1      -2.092  -2.312   1.212
+ATOM      2  CA  TYR A   2      -3.032   2.740   0.077
+ATOM      3  CA  ASP A   3      -1.625   4.476  -2.179
+ATOM      4  CA  PRO A   4       0.681   7.698   0.235
+ATOM      5  CA  GLU A   5      -0.071   8.162  -3.521
+ATOM      6  CA  THR A   6      -4.044   7.924  -3.567
+ATOM      7  CA  GLY A   7      -5.103   9.032   0.620
+ATOM      8  CA  THR A   8      -6.980   5.888   0.419
+ATOM      9  CA  TRP A   9      -6.193   1.903   0.839
+ATOM     10  CA  TYR A  10      -7.069  -0.378  -1.288
+TER
+END
+ATOM      1  CA  TYR A   1       5.251   7.251   2.324
+ATOM      2  CA  TYR A   2       2.267   3.215   1.960
+ATOM      3  CA  ASP A   3       2.160   0.473   4.653
+ATOM      4  CA  PRO A   4       3.486  -3.124   1.111
+ATOM      5  CA  GLU A   5       1.366  -3.956   4.852
+ATOM      6  CA  THR A   6      -1.430  -1.869   4.557
+ATOM      7  CA  GLY A   7      -2.494  -1.060  -0.174
+ATOM      8  CA  THR A   8      -2.993   1.617   0.883
+ATOM      9  CA  TRP A   9      -0.603   5.142   0.934
+ATOM     10  CA  TYR A  10      -0.560   7.060   3.904
+TER
+END
+ATOM      1  CA  TYR A   1       5.811   7.048   1.779
+ATOM      2  CA  TYR A   2       2.803   3.276   1.556
+ATOM      3  CA  ASP A   3       2.341   0.180   4.344
+ATOM      4  CA  PRO A   4       3.578  -3.220   0.932
+ATOM      5  CA  GLU A   5       1.452  -3.982   4.917
+ATOM      6  CA  THR A   6      -1.633  -1.660   4.077
+ATOM      7  CA  GLY A   7      -2.387  -1.356   0.113
+ATOM      8  CA  THR A   8      -2.982   1.729   1.011
+ATOM      9  CA  TRP A   9       0.009   4.840   0.666
+ATOM     10  CA  TYR A  10      -0.098   7.047   3.614
+TER
+END
+ATOM      1  CA  TYR A   1       5.318   5.894  -2.938
+ATOM      2  CA  TYR A   2       3.199   2.067  -0.924
+ATOM      3  CA  ASP A   3       2.468   0.482   2.503
+ATOM      4  CA  PRO A   4       4.154  -4.375   1.275
+ATOM      5  CA  GLU A   5       1.330  -2.869   5.003
+ATOM      6  CA  THR A   6      -1.566  -1.677   3.622
+ATOM      7  CA  GLY A   7      -1.623  -3.651  -0.486
+ATOM      8  CA  THR A   8      -2.701  -0.582  -0.885
+ATOM      9  CA  TRP A   9       0.050   2.245  -2.974
+ATOM     10  CA  TYR A  10       0.014   5.872  -1.339
+TER
+END
+ATOM      1  CA  TYR A   1       4.966   6.795  -1.573
+ATOM      2  CA  TYR A   2       2.827   2.349  -0.414
+ATOM      3  CA  ASP A   3       2.694   0.676   3.128
+ATOM      4  CA  PRO A   4       4.034  -3.942   1.067
+ATOM      5  CA  GLU A   5       1.193  -3.627   5.231
+ATOM      6  CA  THR A   6      -1.538  -1.548   3.641
+ATOM      7  CA  GLY A   7      -1.826  -3.400  -0.373
+ATOM      8  CA  THR A   8      -2.454  -0.147  -0.593
+ATOM      9  CA  TRP A   9      -0.101   3.186  -2.484
+ATOM     10  CA  TYR A  10      -0.505   6.923  -0.110
+TER
+END
+ATOM      1  CA  TYR A   1       5.438   5.601  -2.692
+ATOM      2  CA  TYR A   2       2.545   1.948  -1.121
+ATOM      3  CA  ASP A   3       2.857  -0.167   2.236
+ATOM      4  CA  PRO A   4       2.441  -4.921  -0.258
+ATOM      5  CA  GLU A   5       1.340  -3.860   4.498
+ATOM      6  CA  THR A   6      -1.202  -1.242   4.529
+ATOM      7  CA  GLY A   7      -3.228  -1.968   0.379
+ATOM      8  CA  THR A   8      -2.914   1.074   0.616
+ATOM      9  CA  TRP A   9      -0.233   4.050  -2.026
+ATOM     10  CA  TYR A  10       1.358   7.177   0.967
+TER
+END
+ATOM      1  CA  TYR A   1       5.262   5.653  -2.473
+ATOM      2  CA  TYR A   2       2.445   1.871  -1.223
+ATOM      3  CA  ASP A   3       3.110  -0.356   2.465
+ATOM      4  CA  PRO A   4       2.387  -5.043  -0.035
+ATOM      5  CA  GLU A   5       1.562  -3.920   4.303
+ATOM      6  CA  THR A   6      -1.151  -0.959   4.713
+ATOM      7  CA  GLY A   7      -3.363  -2.215   0.213
+ATOM      8  CA  THR A   8      -3.304   1.383   0.829
+ATOM      9  CA  TRP A   9       0.041   3.978  -2.409
+ATOM     10  CA  TYR A  10       1.513   7.155   0.629
+TER
+END
+ATOM      1  CA  TYR A   1      -2.319  -2.111   0.991
+ATOM      2  CA  TYR A   2      -3.142   2.429   0.453
+ATOM      3  CA  ASP A   3      -1.143   4.341  -2.057
+ATOM      4  CA  PRO A   4      -0.384   8.619   0.711
+ATOM      5  CA  GLU A   5      -0.216   8.406  -3.798
+ATOM      6  CA  THR A   6      -5.033   7.460  -4.981
+ATOM      7  CA  GLY A   7      -6.565   8.754   0.060
+ATOM      8  CA  THR A   8      -7.525   5.752  -1.755
+ATOM      9  CA  TRP A   9      -6.424   1.008   1.693
+ATOM     10  CA  TYR A  10      -5.538  -1.649  -1.917
+TER
+END
+ATOM      1  CA  TYR A   1      -2.163  -1.995   1.060
+ATOM      2  CA  TYR A   2      -3.162   2.531   0.476
+ATOM      3  CA  ASP A   3      -1.369   4.267  -2.453
+ATOM      4  CA  PRO A   4      -0.281   8.272   0.686
+ATOM      5  CA  GLU A   5      -0.125   8.262  -3.493
+ATOM      6  CA  THR A   6      -5.138   7.631  -4.515
+ATOM      7  CA  GLY A   7      -5.947   8.597  -0.037
+ATOM      8  CA  THR A   8      -7.321   5.551  -0.968
+ATOM      9  CA  TRP A   9      -6.502   0.899   1.926
+ATOM     10  CA  TYR A  10      -5.439  -2.011  -1.854
+TER
+END
+ATOM      1  CA  TYR A   1       2.721   5.995  -5.291
+ATOM      2  CA  TYR A   2       1.681   2.806  -2.337
+ATOM      3  CA  ASP A   3       3.512   2.256   1.233
+ATOM      4  CA  PRO A   4       3.311  -2.526   0.622
+ATOM      5  CA  GLU A   5       4.337  -0.761   3.759
+ATOM      6  CA  THR A   6      -0.317   1.624   5.090
+ATOM      7  CA  GLY A   7      -1.977  -1.649   1.480
+ATOM      8  CA  THR A   8      -3.061   2.491   0.736
+ATOM      9  CA  TRP A   9      -1.884   4.071  -4.072
+ATOM     10  CA  TYR A  10       0.102   8.152  -2.555
+TER
+END
+ATOM      1  CA  TYR A   1       2.474   6.012  -5.134
+ATOM      2  CA  TYR A   2       1.454   2.887  -2.201
+ATOM      3  CA  ASP A   3       3.523   2.272   1.237
+ATOM      4  CA  PRO A   4       3.609  -2.313   0.859
+ATOM      5  CA  GLU A   5       4.192  -0.269   4.252
+ATOM      6  CA  THR A   6      -0.138   1.725   5.283
+ATOM      7  CA  GLY A   7      -2.022  -1.743   1.384
+ATOM      8  CA  THR A   8      -3.174   2.477   0.861
+ATOM      9  CA  TRP A   9      -1.706   3.992  -3.893
+ATOM     10  CA  TYR A  10       0.083   8.339  -2.763
+TER
+END
+ATOM      1  CA  TYR A   1       2.722   5.997  -4.735
+ATOM      2  CA  TYR A   2       1.753   3.209  -1.748
+ATOM      3  CA  ASP A   3       3.549   2.494   1.314
+ATOM      4  CA  PRO A   4       3.393  -2.124   1.739
+ATOM      5  CA  GLU A   5       3.879  -0.066   4.756
+ATOM      6  CA  THR A   6      -1.026   1.749   5.320
+ATOM      7  CA  GLY A   7      -2.195  -1.800   1.540
+ATOM      8  CA  THR A   8      -2.915   2.270   0.592
+ATOM      9  CA  TRP A   9      -1.721   4.350  -3.701
+ATOM     10  CA  TYR A  10       0.012   8.245  -2.841
+TER
+END
+ATOM      1  CA  TYR A   1       2.360   6.080  -4.749
+ATOM      2  CA  TYR A   2       2.177   3.458  -2.159
+ATOM      3  CA  ASP A   3       3.551   2.933   1.000
+ATOM      4  CA  PRO A   4       3.225  -2.175   1.224
+ATOM      5  CA  GLU A   5       3.860   0.318   4.682
+ATOM      6  CA  THR A   6      -0.858   2.184   4.901
+ATOM      7  CA  GLY A   7      -2.209  -1.684   1.469
+ATOM      8  CA  THR A   8      -2.787   2.409   0.429
+ATOM      9  CA  TRP A   9      -1.772   4.153  -3.524
+ATOM     10  CA  TYR A  10      -0.052   8.187  -2.785
+TER
+END
+ATOM      1  CA  TYR A   1       4.271   5.512  -2.107
+ATOM      2  CA  TYR A   2       2.844   2.382  -0.581
+ATOM      3  CA  ASP A   3       3.582   0.191   2.294
+ATOM      4  CA  PRO A   4       2.526  -4.434   1.145
+ATOM      5  CA  GLU A   5       2.477  -3.268   5.029
+ATOM      6  CA  THR A   6      -2.336  -1.024   5.038
+ATOM      7  CA  GLY A   7      -3.010  -2.436   0.424
+ATOM      8  CA  THR A   8      -2.664   1.754   0.384
+ATOM      9  CA  TRP A   9      -0.019   4.197  -2.921
+ATOM     10  CA  TYR A  10       2.124   7.707   0.154
+TER
+END
+ATOM      1  CA  TYR A   1       4.263   5.372  -2.193
+ATOM      2  CA  TYR A   2       2.510   2.365  -0.363
+ATOM      3  CA  ASP A   3       3.422   0.283   2.462
+ATOM      4  CA  PRO A   4       2.698  -4.243   0.456
+ATOM      5  CA  GLU A   5       2.252  -3.162   5.364
+ATOM      6  CA  THR A   6      -2.348  -1.201   4.945
+ATOM      7  CA  GLY A   7      -2.819  -2.505   0.541
+ATOM      8  CA  THR A   8      -2.474   1.777   0.256
+ATOM      9  CA  TRP A   9       0.164   4.188  -2.761
+ATOM     10  CA  TYR A  10       1.894   6.957   0.445
+TER
+END
+ATOM      1  CA  TYR A   1       4.549   5.194  -2.065
+ATOM      2  CA  TYR A   2       2.229   2.100  -1.087
+ATOM      3  CA  ASP A   3       3.363  -0.239   2.009
+ATOM      4  CA  PRO A   4       1.829  -5.027  -0.458
+ATOM      5  CA  GLU A   5       2.301  -4.022   4.859
+ATOM      6  CA  THR A   6      -1.923  -1.686   4.891
+ATOM      7  CA  GLY A   7      -3.475  -2.407   0.173
+ATOM      8  CA  THR A   8      -2.542   2.148   0.466
+ATOM      9  CA  TRP A   9       0.101   4.347  -2.827
+ATOM     10  CA  TYR A  10       2.235   6.738   0.218
+TER
+END
+ATOM      1  CA  TYR A   1       4.953   5.074  -1.913
+ATOM      2  CA  TYR A   2       3.361   1.637  -1.046
+ATOM      3  CA  ASP A   3       2.986   0.955   2.720
+ATOM      4  CA  PRO A   4       3.573  -4.629   0.846
+ATOM      5  CA  GLU A   5       1.163  -3.018   5.410
+ATOM      6  CA  THR A   6      -2.563  -2.035   3.417
+ATOM      7  CA  GLY A   7      -1.739  -3.668  -1.539
+ATOM      8  CA  THR A   8      -1.498   0.781  -1.836
+ATOM      9  CA  TRP A   9       1.681   3.137  -4.647
+ATOM     10  CA  TYR A  10       1.633   6.828  -1.795
+TER
+END
+ATOM      1  CA  TYR A   1       4.702   4.701  -1.896
+ATOM      2  CA  TYR A   2       3.714   1.817  -1.014
+ATOM      3  CA  ASP A   3       3.032   1.249   2.764
+ATOM      4  CA  PRO A   4       3.305  -4.524   0.705
+ATOM      5  CA  GLU A   5       1.283  -3.223   5.457
+ATOM      6  CA  THR A   6      -2.340  -2.022   3.666
+ATOM      7  CA  GLY A   7      -1.831  -3.647  -1.242
+ATOM      8  CA  THR A   8      -1.302   0.868  -1.348
+ATOM      9  CA  TRP A   9       1.799   3.861  -4.479
+ATOM     10  CA  TYR A  10       1.715   6.952  -1.368
+TER
+END
+ATOM      1  CA  TYR A   1       4.795   4.726  -1.892
+ATOM      2  CA  TYR A   2       3.501   1.705  -0.944
+ATOM      3  CA  ASP A   3       3.207   1.292   2.541
+ATOM      4  CA  PRO A   4       3.432  -4.277   0.885
+ATOM      5  CA  GLU A   5       1.100  -3.426   5.427
+ATOM      6  CA  THR A   6      -2.165  -1.985   4.116
+ATOM      7  CA  GLY A   7      -2.380  -3.807  -0.674
+ATOM      8  CA  THR A   8      -1.302   0.568  -0.589
+ATOM      9  CA  TRP A   9       1.809   3.645  -3.964
+ATOM     10  CA  TYR A  10       1.496   6.603  -1.118
+TER
+END
+ATOM      1  CA  TYR A   1       4.890   4.754  -1.924
+ATOM      2  CA  TYR A   2       3.461   1.781  -1.091
+ATOM      3  CA  ASP A   3       3.065   0.921   2.686
+ATOM      4  CA  PRO A   4       3.483  -3.926   0.849
+ATOM      5  CA  GLU A   5       1.136  -3.512   5.498
+ATOM      6  CA  THR A   6      -2.375  -1.808   4.466
+ATOM      7  CA  GLY A   7      -2.884  -3.455  -0.210
+ATOM      8  CA  THR A   8      -1.463   1.020  -0.686
+ATOM      9  CA  TRP A   9       1.562   4.020  -3.467
+ATOM     10  CA  TYR A  10       2.006   6.866  -1.261
+TER
+END
+ATOM      1  CA  TYR A   1       5.451   6.131  -1.270
+ATOM      2  CA  TYR A   2       3.446   1.739  -1.321
+ATOM      3  CA  ASP A   3       3.257   0.988   2.584
+ATOM      4  CA  PRO A   4       3.798  -3.310   1.054
+ATOM      5  CA  GLU A   5       1.118  -3.806   5.128
+ATOM      6  CA  THR A   6      -2.035  -1.982   4.035
+ATOM      7  CA  GLY A   7      -2.703  -3.279  -0.460
+ATOM      8  CA  THR A   8      -0.841   1.721  -0.693
+ATOM      9  CA  TRP A   9       2.038   4.601  -2.883
+ATOM     10  CA  TYR A  10       2.344   7.336  -0.570
+TER
+END
+ATOM      1  CA  TYR A   1       5.495   5.675  -1.309
+ATOM      2  CA  TYR A   2       3.368   2.099  -1.538
+ATOM      3  CA  ASP A   3       3.199   1.010   2.649
+ATOM      4  CA  PRO A   4       3.352  -3.607   1.190
+ATOM      5  CA  GLU A   5       1.138  -4.017   5.551
+ATOM      6  CA  THR A   6      -2.180  -2.104   4.024
+ATOM      7  CA  GLY A   7      -2.987  -2.701  -1.172
+ATOM      8  CA  THR A   8      -0.758   1.657  -0.469
+ATOM      9  CA  TRP A   9       1.855   4.704  -2.582
+ATOM     10  CA  TYR A  10       2.656   7.949   0.094
+TER
+END
+ATOM      1  CA  TYR A   1       5.263   4.545  -1.868
+ATOM      2  CA  TYR A   2       2.881   1.855  -1.520
+ATOM      3  CA  ASP A   3       3.490   1.425   2.587
+ATOM      4  CA  PRO A   4       3.094  -3.727   1.972
+ATOM      5  CA  GLU A   5       2.176  -3.410   6.952
+ATOM      6  CA  THR A   6      -1.152  -2.335   5.895
+ATOM      7  CA  GLY A   7      -3.330  -3.187   0.814
+ATOM      8  CA  THR A   8      -1.044   1.718   0.863
+ATOM      9  CA  TRP A   9       0.757   4.532  -2.259
+ATOM     10  CA  TYR A  10       2.455   7.462  -0.699
+TER
+END
+ATOM      1  CA  TYR A   1       5.900   4.926  -1.645
+ATOM      2  CA  TYR A   2       3.154   1.932  -1.893
+ATOM      3  CA  ASP A   3       3.105   1.699   2.034
+ATOM      4  CA  PRO A   4       2.815  -3.727   1.168
+ATOM      5  CA  GLU A   5       1.412  -4.011   5.854
+ATOM      6  CA  THR A   6      -1.824  -2.656   4.127
+ATOM      7  CA  GLY A   7      -2.907  -3.009  -2.048
+ATOM      8  CA  THR A   8      -1.130   2.098  -0.148
+ATOM      9  CA  TRP A   9       1.500   4.727  -2.970
+ATOM     10  CA  TYR A  10       2.256   7.403  -0.943
+TER
+END
+ATOM      1  CA  TYR A   1       7.218   4.624  -1.389
+ATOM      2  CA  TYR A   2       3.766   1.989  -1.479
+ATOM      3  CA  ASP A   3       3.206   1.709   2.215
+ATOM      4  CA  PRO A   4       3.089  -3.753   1.301
+ATOM      5  CA  GLU A   5       1.234  -4.285   5.464
+ATOM      6  CA  THR A   6      -1.712  -2.032   3.979
+ATOM      7  CA  GLY A   7      -3.018  -1.718  -1.921
+ATOM      8  CA  THR A   8      -0.148   2.618  -0.140
+ATOM      9  CA  TRP A   9       1.968   4.794  -2.243
+ATOM     10  CA  TYR A  10       3.635   7.837  -0.222
+TER
+END
+ATOM      1  CA  TYR A   1       7.195   4.386  -1.441
+ATOM      2  CA  TYR A   2       3.690   1.519  -1.179
+ATOM      3  CA  ASP A   3       3.022   1.637   2.179
+ATOM      4  CA  PRO A   4       3.443  -3.244   1.171
+ATOM      5  CA  GLU A   5       0.994  -4.330   5.191
+ATOM      6  CA  THR A   6      -1.565  -1.954   4.118
+ATOM      7  CA  GLY A   7      -2.912  -2.585  -1.815
+ATOM      8  CA  THR A   8      -0.580   2.311  -0.819
+ATOM      9  CA  TRP A   9       1.565   4.884  -2.399
+ATOM     10  CA  TYR A  10       3.257   7.307  -0.779
+TER
+END
+ATOM      1  CA  TYR A   1       5.821   4.684  -1.623
+ATOM      2  CA  TYR A   2       2.980   1.300  -1.505
+ATOM      3  CA  ASP A   3       2.488   1.486   2.058
+ATOM      4  CA  PRO A   4       3.800  -2.915   1.371
+ATOM      5  CA  GLU A   5       1.313  -4.356   5.034
+ATOM      6  CA  THR A   6      -1.839  -2.036   4.310
+ATOM      7  CA  GLY A   7      -3.516  -3.352  -1.691
+ATOM      8  CA  THR A   8      -1.520   1.925  -0.931
+ATOM      9  CA  TRP A   9       0.378   4.620  -2.364
+ATOM     10  CA  TYR A  10       1.728   7.033  -0.973
+TER
+END
+ATOM      1  CA  TYR A   1       6.594   5.357  -0.968
+ATOM      2  CA  TYR A   2       3.693   1.650  -1.301
+ATOM      3  CA  ASP A   3       2.907   1.014   2.174
+ATOM      4  CA  PRO A   4       3.536  -3.038   1.648
+ATOM      5  CA  GLU A   5       1.195  -4.034   4.717
+ATOM      6  CA  THR A   6      -1.748  -1.963   4.242
+ATOM      7  CA  GLY A   7      -3.649  -2.336  -0.955
+ATOM      8  CA  THR A   8      -1.263   2.691  -0.883
+ATOM      9  CA  TRP A   9       0.426   5.279  -1.743
+ATOM     10  CA  TYR A  10       2.381   7.446   0.254
+TER
+END
+ATOM      1  CA  TYR A   1       5.416   4.834  -1.848
+ATOM      2  CA  TYR A   2       3.084   1.624  -1.267
+ATOM      3  CA  ASP A   3       2.818   0.625   2.389
+ATOM      4  CA  PRO A   4       3.021  -3.278   1.656
+ATOM      5  CA  GLU A   5       1.697  -3.786   5.087
+ATOM      6  CA  THR A   6      -1.415  -2.561   5.101
+ATOM      7  CA  GLY A   7      -4.021  -2.919   0.360
+ATOM      8  CA  THR A   8      -1.979   1.934  -0.195
+ATOM      9  CA  TRP A   9      -0.442   4.626  -1.839
+ATOM     10  CA  TYR A  10       1.217   6.736   0.638
+TER
+END
+ATOM      1  CA  TYR A   1       5.496   4.932  -2.022
+ATOM      2  CA  TYR A   2       3.126   1.528  -1.035
+ATOM      3  CA  ASP A   3       2.666   0.592   2.389
+ATOM      4  CA  PRO A   4       3.082  -3.106   1.444
+ATOM      5  CA  GLU A   5       1.666  -3.928   5.241
+ATOM      6  CA  THR A   6      -1.483  -2.853   4.698
+ATOM      7  CA  GLY A   7      -4.164  -2.652  -0.088
+ATOM      8  CA  THR A   8      -2.448   1.400  -0.152
+ATOM      9  CA  TRP A   9      -1.158   4.135  -2.596
+ATOM     10  CA  TYR A  10       0.796   6.847   0.396
+TER
+END
+ATOM      1  CA  TYR A   1       5.494   5.092  -2.926
+ATOM      2  CA  TYR A   2       3.008   1.986  -1.680
+ATOM      3  CA  ASP A   3       3.109   0.886   1.908
+ATOM      4  CA  PRO A   4       3.098  -2.584   1.840
+ATOM      5  CA  GLU A   5       1.788  -2.651   5.560
+ATOM      6  CA  THR A   6      -1.421  -2.093   4.824
+ATOM      7  CA  GLY A   7      -3.901  -2.246  -0.049
+ATOM      8  CA  THR A   8      -2.715   1.596  -0.424
+ATOM      9  CA  TRP A   9      -1.599   4.124  -2.934
+ATOM     10  CA  TYR A  10       0.882   7.118  -0.884
+TER
+END
+ATOM      1  CA  TYR A   1       5.966   5.587  -1.385
+ATOM      2  CA  TYR A   2       3.320   1.979  -1.128
+ATOM      3  CA  ASP A   3       3.200   0.353   1.916
+ATOM      4  CA  PRO A   4       3.281  -2.894   1.935
+ATOM      5  CA  GLU A   5       1.257  -3.952   5.129
+ATOM      6  CA  THR A   6      -1.924  -3.202   3.473
+ATOM      7  CA  GLY A   7      -2.268  -3.435  -1.979
+ATOM      8  CA  THR A   8      -2.211   0.631  -2.003
+ATOM      9  CA  TRP A   9      -0.533   3.938  -3.842
+ATOM     10  CA  TYR A  10       0.360   6.664  -0.914
+TER
+END
+ATOM      1  CA  TYR A   1       5.365   5.065  -2.117
+ATOM      2  CA  TYR A   2       2.922   1.291  -0.869
+ATOM      3  CA  ASP A   3       3.350   0.533   2.117
+ATOM      4  CA  PRO A   4       3.091  -2.792   2.039
+ATOM      5  CA  GLU A   5       3.089  -4.331   6.283
+ATOM      6  CA  THR A   6      -1.194  -2.820   5.586
+ATOM      7  CA  GLY A   7      -3.265  -2.692   0.713
+ATOM      8  CA  THR A   8      -3.250   0.942   0.142
+ATOM      9  CA  TRP A   9      -1.725   4.449  -2.027
+ATOM     10  CA  TYR A  10       0.767   6.708   0.285
+TER
+END
+ATOM      1  CA  TYR A   1       9.050   4.146  -0.181
+ATOM      2  CA  TYR A   2       5.023   1.111  -0.529
+ATOM      3  CA  ASP A   3       3.740   0.209   2.401
+ATOM      4  CA  PRO A   4       3.244  -2.557   1.803
+ATOM      5  CA  GLU A   5       1.143  -4.097   5.187
+ATOM      6  CA  THR A   6      -1.743  -1.996   3.676
+ATOM      7  CA  GLY A   7      -1.843  -0.905  -1.704
+ATOM      8  CA  THR A   8      -1.147   2.793  -1.682
+ATOM      9  CA  TRP A   9       2.158   5.656  -2.738
+ATOM     10  CA  TYR A  10       3.557   6.884   0.636
+TER
+END
+ATOM      1  CA  TYR A   1       5.458   5.018  -3.707
+ATOM      2  CA  TYR A   2       2.860   1.239  -1.473
+ATOM      3  CA  ASP A   3       3.193   1.254   2.153
+ATOM      4  CA  PRO A   4       3.297  -2.358   1.228
+ATOM      5  CA  GLU A   5       3.870  -3.018   6.097
+ATOM      6  CA  THR A   6       0.175  -1.918   5.658
+ATOM      7  CA  GLY A   7      -2.060  -2.258   0.484
+ATOM      8  CA  THR A   8      -3.100   0.972   0.160
+ATOM      9  CA  TRP A   9      -1.475   4.118  -2.599
+ATOM     10  CA  TYR A  10       0.867   7.018  -0.298
+TER
+END
+ATOM      1  CA  TYR A   1       7.469   5.128  -1.888
+ATOM      2  CA  TYR A   2       3.582   1.572  -1.358
+ATOM      3  CA  ASP A   3       3.076   0.992   2.771
+ATOM      4  CA  PRO A   4       2.740  -2.893   1.109
+ATOM      5  CA  GLU A   5       1.544  -4.219   5.295
+ATOM      6  CA  THR A   6      -1.358  -1.823   3.663
+ATOM      7  CA  GLY A   7      -2.065  -1.360  -1.678
+ATOM      8  CA  THR A   8      -2.243   2.025  -0.949
+ATOM      9  CA  TRP A   9       0.559   4.835  -3.026
+ATOM     10  CA  TYR A  10       2.218   7.118   0.327
+TER
+END
+ATOM      1  CA  TYR A   1       5.771   4.408  -3.567
+ATOM      2  CA  TYR A   2       2.312   0.889  -2.007
+ATOM      3  CA  ASP A   3       2.797   0.322   2.272
+ATOM      4  CA  PRO A   4       2.209  -3.698   0.490
+ATOM      5  CA  GLU A   5       1.810  -4.196   5.125
+ATOM      6  CA  THR A   6      -1.242  -1.916   4.784
+ATOM      7  CA  GLY A   7      -3.055  -1.424  -0.251
+ATOM      8  CA  THR A   8      -3.184   1.969   0.325
+ATOM      9  CA  TRP A   9      -1.388   4.343  -2.446
+ATOM     10  CA  TYR A  10       1.961   6.678   0.017
+TER
+END
+ATOM      1  CA  TYR A   1       6.914   4.809  -1.841
+ATOM      2  CA  TYR A   2       3.689   1.462  -1.202
+ATOM      3  CA  ASP A   3       2.909   0.629   2.707
+ATOM      4  CA  PRO A   4       2.698  -2.681   1.236
+ATOM      5  CA  GLU A   5       1.803  -3.891   4.949
+ATOM      6  CA  THR A   6      -1.515  -1.890   3.789
+ATOM      7  CA  GLY A   7      -1.961  -1.522  -1.530
+ATOM      8  CA  THR A   8      -2.279   2.181  -0.747
+ATOM      9  CA  TRP A   9       0.187   4.518  -2.710
+ATOM     10  CA  TYR A  10       2.508   7.124   0.246
+TER
+END
+ATOM      1  CA  TYR A   1       5.125   4.376  -4.988
+ATOM      2  CA  TYR A   2       2.270   1.240  -1.662
+ATOM      3  CA  ASP A   3       3.177   1.978   1.840
+ATOM      4  CA  PRO A   4       3.233  -1.960   1.856
+ATOM      5  CA  GLU A   5       3.654  -1.624   6.170
+ATOM      6  CA  THR A   6      -0.031   0.199   5.235
+ATOM      7  CA  GLY A   7      -2.205  -1.611   1.007
+ATOM      8  CA  THR A   8      -2.881   1.950   0.406
+ATOM      9  CA  TRP A   9      -1.915   3.826  -2.893
+ATOM     10  CA  TYR A  10       1.252   7.206  -1.959
+TER
+END
+ATOM      1  CA  TYR A   1       5.996   4.757  -2.090
+ATOM      2  CA  TYR A   2       2.921   1.748  -1.171
+ATOM      3  CA  ASP A   3       2.060   0.527   2.383
+ATOM      4  CA  PRO A   4       3.081  -2.584   1.461
+ATOM      5  CA  GLU A   5       1.976  -4.429   5.433
+ATOM      6  CA  THR A   6      -1.883  -2.427   4.179
+ATOM      7  CA  GLY A   7      -2.042  -2.677  -0.927
+ATOM      8  CA  THR A   8      -2.958   1.313  -0.693
+ATOM      9  CA  TRP A   9      -1.417   4.135  -2.751
+ATOM     10  CA  TYR A  10       0.816   6.619   0.459
+TER
+END
+ATOM      1  CA  TYR A   1       5.948   4.417  -1.979
+ATOM      2  CA  TYR A   2       2.910   1.889  -1.139
+ATOM      3  CA  ASP A   3       2.137   1.094   2.210
+ATOM      4  CA  PRO A   4       3.089  -2.814   1.510
+ATOM      5  CA  GLU A   5       1.950  -4.568   5.415
+ATOM      6  CA  THR A   6      -1.774  -2.646   4.203
+ATOM      7  CA  GLY A   7      -2.224  -2.869  -1.688
+ATOM      8  CA  THR A   8      -3.154   1.280  -1.216
+ATOM      9  CA  TRP A   9      -1.662   4.003  -2.739
+ATOM     10  CA  TYR A  10       1.030   6.396   0.271
+TER
+END
+ATOM      1  CA  TYR A   1       5.411   6.289  -0.360
+ATOM      2  CA  TYR A   2       2.193   3.564  -0.554
+ATOM      3  CA  ASP A   3       1.536   2.220   3.435
+ATOM      4  CA  PRO A   4       2.715  -1.579   1.655
+ATOM      5  CA  GLU A   5       1.942  -4.317   5.176
+ATOM      6  CA  THR A   6      -1.670  -1.965   5.023
+ATOM      7  CA  GLY A   7      -2.574  -1.423  -0.710
+ATOM      8  CA  THR A   8      -3.249   2.436   0.629
+ATOM      9  CA  TRP A   9      -2.153   5.175  -0.515
+ATOM     10  CA  TYR A  10       1.090   7.104   2.883
+TER
+END
+ATOM      1  CA  TYR A   1       6.183   5.393  -1.081
+ATOM      2  CA  TYR A   2       2.526   3.083  -1.079
+ATOM      3  CA  ASP A   3       2.022   1.683   3.113
+ATOM      4  CA  PRO A   4       2.577  -2.224   1.155
+ATOM      5  CA  GLU A   5       1.935  -4.355   5.130
+ATOM      6  CA  THR A   6      -1.722  -1.848   5.043
+ATOM      7  CA  GLY A   7      -2.471  -1.571  -0.695
+ATOM      8  CA  THR A   8      -3.294   2.505   0.640
+ATOM      9  CA  TRP A   9      -1.648   4.681  -0.855
+ATOM     10  CA  TYR A  10       2.027   6.611   2.075
+TER
+END
+ATOM      1  CA  TYR A   1       5.779   5.999  -0.948
+ATOM      2  CA  TYR A   2       2.211   3.318  -1.111
+ATOM      3  CA  ASP A   3       1.490   1.093   2.840
+ATOM      4  CA  PRO A   4       2.526  -2.485   1.165
+ATOM      5  CA  GLU A   5       1.923  -4.273   5.005
+ATOM      6  CA  THR A   6      -1.857  -1.834   5.063
+ATOM      7  CA  GLY A   7      -2.402  -1.603  -0.611
+ATOM      8  CA  THR A   8      -3.216   2.441   0.660
+ATOM      9  CA  TRP A   9      -1.762   4.530  -0.572
+ATOM     10  CA  TYR A  10       1.720   6.479   2.005
+TER
+END
+ATOM      1  CA  TYR A   1       6.537   4.540  -2.469
+ATOM      2  CA  TYR A   2       2.987   2.175  -1.848
+ATOM      3  CA  ASP A   3       2.366   0.841   2.513
+ATOM      4  CA  PRO A   4       3.262  -3.481   1.388
+ATOM      5  CA  GLU A   5       1.667  -4.105   5.312
+ATOM      6  CA  THR A   6      -1.671  -1.128   5.120
+ATOM      7  CA  GLY A   7      -2.050  -1.585  -0.582
+ATOM      8  CA  THR A   8      -2.874   1.759   0.482
+ATOM      9  CA  TRP A   9      -0.994   3.863  -1.844
+ATOM     10  CA  TYR A  10       3.003   5.841   1.132
+TER
+END
+ATOM      1  CA  TYR A   1       5.893   5.036  -2.545
+ATOM      2  CA  TYR A   2       2.948   2.195  -1.757
+ATOM      3  CA  ASP A   3       2.211   0.804   2.613
+ATOM      4  CA  PRO A   4       2.966  -3.194   1.737
+ATOM      5  CA  GLU A   5       1.701  -4.422   5.106
+ATOM      6  CA  THR A   6      -1.928  -1.026   4.883
+ATOM      7  CA  GLY A   7      -1.992  -1.610  -0.444
+ATOM      8  CA  THR A   8      -3.273   1.200   1.145
+ATOM      9  CA  TRP A   9      -0.857   3.892  -2.031
+ATOM     10  CA  TYR A  10       2.328   5.952   0.911
+TER
+END
+ATOM      1  CA  TYR A   1       5.850   5.163  -2.786
+ATOM      2  CA  TYR A   2       3.038   2.171  -1.718
+ATOM      3  CA  ASP A   3       2.480   0.827   2.432
+ATOM      4  CA  PRO A   4       2.704  -3.038   2.042
+ATOM      5  CA  GLU A   5       1.419  -4.601   5.236
+ATOM      6  CA  THR A   6      -1.748  -1.251   4.702
+ATOM      7  CA  GLY A   7      -1.975  -1.065  -0.525
+ATOM      8  CA  THR A   8      -3.130   0.880   1.081
+ATOM      9  CA  TRP A   9      -0.969   3.789  -1.758
+ATOM     10  CA  TYR A  10       2.437   6.188   1.530
+TER
+END
+ATOM      1  CA  TYR A   1       5.852   4.905  -2.634
+ATOM      2  CA  TYR A   2       3.060   2.055  -1.692
+ATOM      3  CA  ASP A   3       2.173   1.275   2.069
+ATOM      4  CA  PRO A   4       2.753  -3.325   2.053
+ATOM      5  CA  GLU A   5       1.853  -4.585   5.451
+ATOM      6  CA  THR A   6      -1.893  -1.550   4.516
+ATOM      7  CA  GLY A   7      -1.928  -0.908  -0.286
+ATOM      8  CA  THR A   8      -3.286   1.140   0.600
+ATOM      9  CA  TRP A   9      -0.914   3.867  -1.372
+ATOM     10  CA  TYR A  10       2.350   5.935   1.005
+TER
+END
+ATOM      1  CA  TYR A   1       5.976   4.845  -2.089
+ATOM      2  CA  TYR A   2       3.046   2.009  -1.712
+ATOM      3  CA  ASP A   3       2.180   1.236   2.306
+ATOM      4  CA  PRO A   4       3.105  -3.384   1.760
+ATOM      5  CA  GLU A   5       1.868  -4.918   5.517
+ATOM      6  CA  THR A   6      -1.677  -1.675   4.671
+ATOM      7  CA  GLY A   7      -2.066  -0.914   0.011
+ATOM      8  CA  THR A   8      -3.256   1.627   0.824
+ATOM      9  CA  TRP A   9      -0.351   4.140  -0.975
+ATOM     10  CA  TYR A  10       3.007   6.332   0.857
+TER
+END
+ATOM      1  CA  TYR A   1       6.484   4.931  -1.518
+ATOM      2  CA  TYR A   2       3.225   1.902  -1.580
+ATOM      3  CA  ASP A   3       2.529   0.946   2.593
+ATOM      4  CA  PRO A   4       2.790  -3.100   1.742
+ATOM      5  CA  GLU A   5       2.154  -4.938   5.284
+ATOM      6  CA  THR A   6      -1.495  -1.506   4.873
+ATOM      7  CA  GLY A   7      -2.290  -0.844  -0.202
+ATOM      8  CA  THR A   8      -2.714   1.833   0.413
+ATOM      9  CA  TRP A   9      -0.029   4.018  -0.916
+ATOM     10  CA  TYR A  10       2.809   6.296   1.372
+TER
+END
+ATOM      1  CA  TYR A   1       5.486   4.989  -2.051
+ATOM      2  CA  TYR A   2       2.543   1.465  -1.592
+ATOM      3  CA  ASP A   3       2.195   0.865   2.181
+ATOM      4  CA  PRO A   4       2.689  -2.954   2.127
+ATOM      5  CA  GLU A   5       2.393  -4.192   4.936
+ATOM      6  CA  THR A   6      -1.521  -1.412   4.648
+ATOM      7  CA  GLY A   7      -2.496  -1.318  -0.446
+ATOM      8  CA  THR A   8      -3.044   1.804   0.414
+ATOM      9  CA  TRP A   9      -0.575   3.628  -1.511
+ATOM     10  CA  TYR A  10       1.864   5.974   0.550
+TER
+END
+ATOM      1  CA  TYR A   1       6.484   5.095  -1.445
+ATOM      2  CA  TYR A   2       3.757   1.614  -1.464
+ATOM      3  CA  ASP A   3       2.740   0.808   2.396
+ATOM      4  CA  PRO A   4       2.880  -2.861   2.031
+ATOM      5  CA  GLU A   5       1.982  -4.384   4.591
+ATOM      6  CA  THR A   6      -1.775  -1.549   3.926
+ATOM      7  CA  GLY A   7      -1.418  -1.252  -1.534
+ATOM      8  CA  THR A   8      -2.017   1.862  -0.550
+ATOM      9  CA  TRP A   9       0.617   3.798  -1.555
+ATOM     10  CA  TYR A  10       2.579   6.102   1.068
+TER
+END
+ATOM      1  CA  TYR A   1       5.501   5.263  -1.570
+ATOM      2  CA  TYR A   2       2.254   1.891  -0.922
+ATOM      3  CA  ASP A   3       2.392   1.039   3.308
+ATOM      4  CA  PRO A   4       2.418  -2.667   2.272
+ATOM      5  CA  GLU A   5       2.040  -4.380   4.896
+ATOM      6  CA  THR A   6      -2.253  -1.507   4.695
+ATOM      7  CA  GLY A   7      -2.250  -1.477  -0.193
+ATOM      8  CA  THR A   8      -3.088   2.094   0.719
+ATOM      9  CA  TRP A   9      -0.333   3.981   0.071
+ATOM     10  CA  TYR A  10       2.297   6.561   2.061
+TER
+END
+ATOM      1  CA  TYR A   1       5.714   4.743  -2.082
+ATOM      2  CA  TYR A   2       2.521   1.752  -1.359
+ATOM      3  CA  ASP A   3       2.689   0.653   2.840
+ATOM      4  CA  PRO A   4       3.018  -3.085   2.300
+ATOM      5  CA  GLU A   5       2.410  -4.420   4.475
+ATOM      6  CA  THR A   6      -1.828  -1.221   4.477
+ATOM      7  CA  GLY A   7      -2.406  -1.771   0.003
+ATOM      8  CA  THR A   8      -2.941   2.176   0.634
+ATOM      9  CA  TRP A   9       0.396   3.309  -0.022
+ATOM     10  CA  TYR A  10       3.214   6.160   1.244
+TER
+END
+ATOM      1  CA  TYR A   1       5.319   4.736  -2.364
+ATOM      2  CA  TYR A   2       3.034   2.122  -1.269
+ATOM      3  CA  ASP A   3       3.084   0.563   2.781
+ATOM      4  CA  PRO A   4       3.291  -3.325   2.021
+ATOM      5  CA  GLU A   5       2.940  -4.294   3.770
+ATOM      6  CA  THR A   6      -1.255  -1.284   5.184
+ATOM      7  CA  GLY A   7      -2.205  -1.515   0.919
+ATOM      8  CA  THR A   8      -2.468   2.234   1.486
+ATOM      9  CA  TRP A   9       0.057   3.753   0.314
+ATOM     10  CA  TYR A  10       3.207   6.124   1.418
+TER
+END
+ATOM      1  CA  TYR A   1       5.187   4.744  -2.350
+ATOM      2  CA  TYR A   2       3.195   2.068  -1.074
+ATOM      3  CA  ASP A   3       3.172   0.647   2.467
+ATOM      4  CA  PRO A   4       3.174  -3.363   2.127
+ATOM      5  CA  GLU A   5       3.121  -4.668   3.498
+ATOM      6  CA  THR A   6      -1.455  -2.129   4.972
+ATOM      7  CA  GLY A   7      -1.766  -2.094   0.425
+ATOM      8  CA  THR A   8      -2.981   2.164   0.629
+ATOM      9  CA  TRP A   9      -0.156   3.361   0.652
+ATOM     10  CA  TYR A  10       2.891   6.516   1.987
+TER
+END
+ATOM      1  CA  TYR A   1       5.524   4.753  -2.321
+ATOM      2  CA  TYR A   2       2.922   1.968  -0.708
+ATOM      3  CA  ASP A   3       2.666   0.488   2.608
+ATOM      4  CA  PRO A   4       2.906  -3.282   1.964
+ATOM      5  CA  GLU A   5       2.241  -4.165   4.092
+ATOM      6  CA  THR A   6      -1.919  -1.421   4.907
+ATOM      7  CA  GLY A   7      -2.045  -1.661   0.665
+ATOM      8  CA  THR A   8      -3.119   2.148   0.081
+ATOM      9  CA  TRP A   9      -0.442   4.047  -0.042
+ATOM     10  CA  TYR A  10       2.756   6.744   1.889
+TER
+END
+ATOM      1  CA  TYR A   1       5.759   4.714  -2.274
+ATOM      2  CA  TYR A   2       3.025   1.705  -0.769
+ATOM      3  CA  ASP A   3       2.369   0.446   2.689
+ATOM      4  CA  PRO A   4       2.720  -2.913   1.784
+ATOM      5  CA  GLU A   5       2.621  -4.083   4.241
+ATOM      6  CA  THR A   6      -2.079  -1.689   4.399
+ATOM      7  CA  GLY A   7      -2.023  -1.439   0.954
+ATOM      8  CA  THR A   8      -3.214   2.087   0.265
+ATOM      9  CA  TRP A   9      -0.618   4.077   0.046
+ATOM     10  CA  TYR A  10       3.100   6.970   1.915
+TER
+END
+ATOM      1  CA  TYR A   1       5.875   5.532   0.512
+ATOM      2  CA  TYR A   2       3.145   2.380   0.622
+ATOM      3  CA  ASP A   3       2.136   0.198   3.671
+ATOM      4  CA  PRO A   4       2.931  -2.545   2.333
+ATOM      5  CA  GLU A   5       2.358  -4.275   4.754
+ATOM      6  CA  THR A   6      -2.718  -1.813   4.205
+ATOM      7  CA  GLY A   7      -2.088  -1.531   0.588
+ATOM      8  CA  THR A   8      -2.966   2.335   0.525
+ATOM      9  CA  TRP A   9      -0.293   4.201   1.195
+ATOM     10  CA  TYR A  10       2.072   6.760   4.157
+TER
+END
+ATOM      1  CA  TYR A   1       5.920   4.306  -1.978
+ATOM      2  CA  TYR A   2       3.028   2.070  -1.359
+ATOM      3  CA  ASP A   3       1.750  -0.050   2.969
+ATOM      4  CA  PRO A   4       2.835  -2.596   1.798
+ATOM      5  CA  GLU A   5       2.762  -3.696   4.689
+ATOM      6  CA  THR A   6      -2.198  -1.339   4.374
+ATOM      7  CA  GLY A   7      -2.258  -1.752   0.840
+ATOM      8  CA  THR A   8      -3.132   1.892  -0.095
+ATOM      9  CA  TRP A   9      -0.409   4.020  -0.079
+ATOM     10  CA  TYR A  10       2.714   6.744   1.848
+TER
+END
+ATOM      1  CA  TYR A   1       5.762   4.642  -1.976
+ATOM      2  CA  TYR A   2       3.097   2.054  -1.479
+ATOM      3  CA  ASP A   3       1.455   0.051   3.063
+ATOM      4  CA  PRO A   4       2.706  -2.825   1.699
+ATOM      5  CA  GLU A   5       3.007  -4.327   4.383
+ATOM      6  CA  THR A   6      -1.665  -1.569   4.759
+ATOM      7  CA  GLY A   7      -2.209  -1.391   0.885
+ATOM      8  CA  THR A   8      -2.977   2.194  -0.047
+ATOM      9  CA  TRP A   9      -0.494   4.006  -0.149
+ATOM     10  CA  TYR A  10       2.808   6.458   2.297
+TER
+END
+ATOM      1  CA  TYR A   1       5.837   4.371  -2.056
+ATOM      2  CA  TYR A   2       3.194   2.077  -1.314
+ATOM      3  CA  ASP A   3       1.878   0.306   2.738
+ATOM      4  CA  PRO A   4       2.713  -2.780   1.981
+ATOM      5  CA  GLU A   5       2.741  -4.002   4.806
+ATOM      6  CA  THR A   6      -1.949  -1.184   4.705
+ATOM      7  CA  GLY A   7      -2.326  -1.689   0.804
+ATOM      8  CA  THR A   8      -2.688   2.164  -0.467
+ATOM      9  CA  TRP A   9      -0.160   4.654  -0.228
+ATOM     10  CA  TYR A  10       2.152   6.908   2.046
+TER
+END
+ATOM      1  CA  TYR A   1       5.242   4.612  -2.697
+ATOM      2  CA  TYR A   2       2.988   2.134  -1.329
+ATOM      3  CA  ASP A   3       1.622   0.422   2.386
+ATOM      4  CA  PRO A   4       2.886  -2.659   1.971
+ATOM      5  CA  GLU A   5       2.751  -4.106   4.576
+ATOM      6  CA  THR A   6      -2.328  -1.400   4.816
+ATOM      7  CA  GLY A   7      -2.441  -2.134   0.591
+ATOM      8  CA  THR A   8      -2.512   1.722  -0.743
+ATOM      9  CA  TRP A   9      -0.539   4.283  -0.865
+ATOM     10  CA  TYR A  10       1.054   7.098   1.557
+TER
+END
+ATOM      1  CA  TYR A   1       5.255   4.473  -3.611
+ATOM      2  CA  TYR A   2       2.854   2.063  -1.871
+ATOM      3  CA  ASP A   3       1.635   0.426   1.682
+ATOM      4  CA  PRO A   4       3.363  -2.589   2.058
+ATOM      5  CA  GLU A   5       2.449  -2.622   5.482
+ATOM      6  CA  THR A   6      -2.786  -0.746   4.335
+ATOM      7  CA  GLY A   7      -2.117  -2.139   0.528
+ATOM      8  CA  THR A   8      -2.673   1.039  -1.326
+ATOM      9  CA  TRP A   9      -0.716   4.380  -1.960
+ATOM     10  CA  TYR A  10       0.478   6.943  -0.082
+TER
+END
+ATOM      1  CA  TYR A   1       5.840   4.578  -2.360
+ATOM      2  CA  TYR A   2       3.306   2.378  -0.958
+ATOM      3  CA  ASP A   3       1.621   0.114   2.208
+ATOM      4  CA  PRO A   4       3.138  -2.783   1.752
+ATOM      5  CA  GLU A   5       2.130  -4.269   5.375
+ATOM      6  CA  THR A   6      -2.307  -1.158   4.783
+ATOM      7  CA  GLY A   7      -2.097  -1.808   0.909
+ATOM      8  CA  THR A   8      -2.513   1.354   0.162
+ATOM      9  CA  TRP A   9      -0.066   4.628  -0.400
+ATOM     10  CA  TYR A  10       1.681   6.776   2.569
+TER
+END
+ATOM      1  CA  TYR A   1       5.572   4.808  -3.186
+ATOM      2  CA  TYR A   2       3.037   2.409  -1.426
+ATOM      3  CA  ASP A   3       1.328   0.021   2.351
+ATOM      4  CA  PRO A   4       3.347  -2.561   1.916
+ATOM      5  CA  GLU A   5       2.124  -4.174   5.214
+ATOM      6  CA  THR A   6      -2.356  -1.169   4.470
+ATOM      7  CA  GLY A   7      -2.154  -2.250   0.414
+ATOM      8  CA  THR A   8      -2.767   1.011  -0.006
+ATOM      9  CA  TRP A   9      -0.460   4.780  -1.041
+ATOM     10  CA  TYR A  10       1.082   6.972   1.229
+TER
+END
+ATOM      1  CA  TYR A   1       5.980   5.086  -2.665
+ATOM      2  CA  TYR A   2       3.212   2.283  -1.284
+ATOM      3  CA  ASP A   3       1.631  -0.308   3.039
+ATOM      4  CA  PRO A   4       3.023  -2.937   1.678
+ATOM      5  CA  GLU A   5       2.190  -4.104   5.249
+ATOM      6  CA  THR A   6      -2.097  -1.033   4.797
+ATOM      7  CA  GLY A   7      -2.350  -1.641   0.968
+ATOM      8  CA  THR A   8      -2.198   1.584   0.125
+ATOM      9  CA  TRP A   9       0.331   4.866  -0.205
+ATOM     10  CA  TYR A  10       2.165   6.848   2.410
+TER
+END
+ATOM      1  CA  TYR A   1       7.065   5.462  -1.087
+ATOM      2  CA  TYR A   2       4.290   2.395  -0.024
+ATOM      3  CA  ASP A   3       1.836   0.641   3.077
+ATOM      4  CA  PRO A   4       3.245  -2.692   2.219
+ATOM      5  CA  GLU A   5       1.896  -4.356   5.079
+ATOM      6  CA  THR A   6      -2.176  -1.587   4.063
+ATOM      7  CA  GLY A   7      -2.062  -1.596   0.343
+ATOM      8  CA  THR A   8      -1.325   1.806  -0.405
+ATOM      9  CA  TRP A   9       1.108   5.153  -0.200
+ATOM     10  CA  TYR A  10       2.579   6.656   3.095
+TER
+END
+ATOM      1  CA  TYR A   1       9.306   3.767  -0.474
+ATOM      2  CA  TYR A   2       5.484   1.265   0.139
+ATOM      3  CA  ASP A   3       3.390   0.463   2.249
+ATOM      4  CA  PRO A   4       3.500  -2.940   2.145
+ATOM      5  CA  GLU A   5       1.111  -4.203   4.927
+ATOM      6  CA  THR A   6      -1.617  -1.760   3.746
+ATOM      7  CA  GLY A   7       0.100  -2.411  -0.517
+ATOM      8  CA  THR A   8      -0.035   1.211  -1.713
+ATOM      9  CA  TRP A   9       3.299   3.704  -1.564
+ATOM     10  CA  TYR A  10       4.196   6.023   1.208
+TER
+END

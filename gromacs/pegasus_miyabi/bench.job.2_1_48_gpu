@@ -1,0 +1,33 @@
+#!/bin/sh -l
+
+#PBS -V
+#PBS -j oe
+#PBS -q regular-g
+#PBS -l select=2:mpiprocs=1:ompthreads=48
+#PBS -l walltime=00:10:00
+#PBS -W group_list=xg25i007
+#PBS -N gx24_chgw
+
+module purge
+module load gcc/11.4.1
+module load ompi-cuda/4.1.6-12.6
+module load gromacs-gpu/2024.4
+
+unset OMPI_MCA_mca_base_env_list
+export MIYABI=G
+
+cd ${PBS_O_WORKDIR}
+
+gmx_mpi grompp -f input/production.mdp -o 2_24_2_gpu/production.tpr -c input/final_density_stabilization.gro -p input/topol.top
+
+cd 2_24_2_gpu
+
+mpirun -hostfile ${PBS_NODEFILE} -np 2 -npernode 1 --bind-to none -x PATH -x LD_LIBRARY_PATH gmx_mpi mdrun -noconfout -maxh 0.05 -nb gpu -bonded gpu -pme gpu -npme 1 -deffnm production
+
+rm production.edr
+rm production.tpr
+rm production.xtc
+rm production.trr
+rm mdout.mdp
+rm \#*
+
