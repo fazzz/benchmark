@@ -1,0 +1,22 @@
+git clone https://github.com/apple/ml-simplefold.git
+cd ml-simplefold
+conda create -n simplefold python=3.10
+conda activate simplefold
+python -m pip install -U pip build; pip install -e .
+
+simplefold --simplefold_model simplefold_100M --num_steps 500 --tau 0.01 --nsample_per_protein 1 --plddt --fasta_path input/P00720.fasta --output_dir t4-lysozyme --backend torch
+
+ls t4-lysozyme/*
+t4-lysozyme/manifest.json
+
+t4-lysozyme/cache:
+boltz1_conf.ckpt  ccd.pkl
+
+t4-lysozyme/predictions_simplefold_100M:
+P00720_sampled_0.cif
+
+t4-lysozyme/records:
+P00720.json
+
+t4-lysozyme/structures:
+P00720.npz
